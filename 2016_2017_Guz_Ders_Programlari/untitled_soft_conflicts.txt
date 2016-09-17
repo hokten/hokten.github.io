@@ -1,0 +1,9 @@
+﻿Soft conflicts of untitled.fet
+Generated with FET 5.30.2 on 9/17/16 9:52 PM
+
+Total soft conflicts: 0
+
+Soft conflicts list (in decreasing order):
+
+
+End of file.
