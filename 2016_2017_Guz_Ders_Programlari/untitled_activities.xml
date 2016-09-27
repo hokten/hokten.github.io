@@ -228,4 +228,94 @@
 	<Hour>14:00</Hour>
 	<Room>502</Room>
 </Activity>
+<Activity>
+	<Id>70</Id>
+	<Day>Perşembe</Day>
+	<Hour>17:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>71</Id>
+	<Day>Cuma</Day>
+	<Hour>22:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>72</Id>
+	<Day>Salı</Day>
+	<Hour>22:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>73</Id>
+	<Day>Çarşamba</Day>
+	<Hour>17:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>74</Id>
+	<Day>Cuma</Day>
+	<Hour>19:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>75</Id>
+	<Day>Salı</Day>
+	<Hour>18:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>76</Id>
+	<Day>Perşembe</Day>
+	<Hour>19:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>77</Id>
+	<Day>Pazartesi</Day>
+	<Hour>19:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>78</Id>
+	<Day>Salı</Day>
+	<Hour>18:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>79</Id>
+	<Day>Cuma</Day>
+	<Hour>17:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>80</Id>
+	<Day>Perşembe</Day>
+	<Hour>17:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>81</Id>
+	<Day>Çarşamba</Day>
+	<Hour>17:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>82</Id>
+	<Day>Pazartesi</Day>
+	<Hour>17:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>83</Id>
+	<Day>Salı</Day>
+	<Hour>22:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>84</Id>
+	<Day>Çarşamba</Day>
+	<Hour>21:00</Hour>
+	<Room></Room>
+</Activity>
 </Activities_Timetable>

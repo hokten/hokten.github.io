@@ -26,7 +26,7 @@
 </Days_List>
 
 <Hours_List>
-<Number_of_Hours>12</Number_of_Hours>
+<Number_of_Hours>16</Number_of_Hours>
 <Hour>
 	<Name>08:00</Name>
 </Hour>
@@ -62,6 +62,18 @@
 </Hour>
 <Hour>
 	<Name>19:00</Name>
+</Hour>
+<Hour>
+	<Name>20:00</Name>
+</Hour>
+<Hour>
+	<Name>21:00</Name>
+</Hour>
+<Hour>
+	<Name>22:00</Name>
+</Hour>
+<Hour>
+	<Name>23:00</Name>
 </Hour>
 </Hours_List>
 
@@ -162,6 +174,51 @@
 <Subject>
 	<Name>GINS101 - MATEMATİK-I</Name>
 </Subject>
+<Subject>
+	<Name>UAIT101 - Atatürk İlkeleri ve İnkılap Tarihi I</Name>
+</Subject>
+<Subject>
+	<Name>UYDL101 - Yabancı Dil I</Name>
+</Subject>
+<Subject>
+	<Name>UTDL101 - Türk Dili I</Name>
+</Subject>
+<Subject>
+	<Name>UIAT101 - Programlama Temelleri</Name>
+</Subject>
+<Subject>
+	<Name>UIAT103 - Matematik</Name>
+</Subject>
+<Subject>
+	<Name>UIAT105 - İşletim Sistemleri</Name>
+</Subject>
+<Subject>
+	<Name>UIAT107 - Bilgisayar Donanımı</Name>
+</Subject>
+<Subject>
+	<Name>UIAT111 - Ofis Yazılımları</Name>
+</Subject>
+<Subject>
+	<Name>UIAT201 - Veri Tabanı Yönetim Sistemleri</Name>
+</Subject>
+<Subject>
+	<Name>UIAT203 - Sunucu Yönetimi</Name>
+</Subject>
+<Subject>
+	<Name>UIAT205 - İnternet Programcılığı I</Name>
+</Subject>
+<Subject>
+	<Name>UIAT207 - Java Programlama</Name>
+</Subject>
+<Subject>
+	<Name>UIAT209 - İleri Ağ Teknolojileri</Name>
+</Subject>
+<Subject>
+	<Name>UIAT213 - İçerik Yönetim Sistemleri</Name>
+</Subject>
+<Subject>
+	<Name>UIAT215 - Meslek Etiği</Name>
+</Subject>
 </Subjects_List>
 
 <Activity_Tags_List>
@@ -216,6 +273,42 @@
 	<Qualified_Subjects>
 	</Qualified_Subjects>
 </Teacher>
+<Teacher>
+	<Name>Okt. Yunus Emre CİLOŞOĞLU</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+</Teacher>
+<Teacher>
+	<Name>Okt. Serap Özge AYDIN</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+</Teacher>
+<Teacher>
+	<Name>Okt. İmran GÜNDÜZ ALPTÜRKER</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+</Teacher>
+<Teacher>
+	<Name>Doç. Dr. Recep ÇAKIR</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+</Teacher>
+<Teacher>
+	<Name>Yrd. Doç. Dr. Yavuz ÜNAL</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+</Teacher>
+<Teacher>
+	<Name>Öğr. Gör. Engin KAYNAR</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+</Teacher>
 </Teachers_List>
 
 <Students_List>
@@ -261,6 +354,18 @@
 			<Name>İnşaat Teknolojisi I. Sınıf II. Öğretim</Name>
 			<Number_of_Students>0</Number_of_Students>
 		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>Bilgisayar ve Ağ Teknolojileri</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Group>
+		<Name>Bil. ve Ağ. Tek. I. Sınıf</Name>
+		<Number_of_Students>0</Number_of_Students>
+	</Group>
+	<Group>
+		<Name>Bil. ve Ağ. Tek. II. Sınıf</Name>
+		<Number_of_Students>0</Number_of_Students>
 	</Group>
 </Year>
 </Students_List>
@@ -680,6 +785,171 @@
 	<Duration>3</Duration>
 	<Total_Duration>3</Total_Duration>
 	<Id>69</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Okt. Yunus Emre CİLOŞOĞLU</Teacher>
+	<Subject>UAIT101 - Atatürk İlkeleri ve İnkılap Tarihi I</Subject>
+	<Students>Bil. ve Ağ. Tek. I. Sınıf</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>70</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Okt. Serap Özge AYDIN</Teacher>
+	<Subject>UYDL101 - Yabancı Dil I</Subject>
+	<Students>Bil. ve Ağ. Tek. I. Sınıf</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>71</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Okt. İmran GÜNDÜZ ALPTÜRKER</Teacher>
+	<Subject>UTDL101 - Türk Dili I</Subject>
+	<Students>Bil. ve Ağ. Tek. I. Sınıf</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>72</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Öğr.Gör. Sabri Serkan TAN</Teacher>
+	<Subject>UIAT101 - Programlama Temelleri</Subject>
+	<Students>Bil. ve Ağ. Tek. I. Sınıf</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>73</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Öğr. Gör. Engin KAYNAR</Teacher>
+	<Subject>UIAT103 - Matematik</Subject>
+	<Students>Bil. ve Ağ. Tek. I. Sınıf</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>74</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Öğr.Gör. Aslıhan BABUR</Teacher>
+	<Subject>UIAT105 - İşletim Sistemleri</Subject>
+	<Students>Bil. ve Ağ. Tek. I. Sınıf</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>75</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Doç. Dr. Recep ÇAKIR</Teacher>
+	<Subject>UIAT107 - Bilgisayar Donanımı</Subject>
+	<Students>Bil. ve Ağ. Tek. I. Sınıf</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>76</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Yrd. Doç. Dr. Önder İDİL</Teacher>
+	<Subject>UIAT111 - Ofis Yazılımları</Subject>
+	<Students>Bil. ve Ağ. Tek. I. Sınıf</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>77</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Yrd. Doç. Dr. Yavuz ÜNAL</Teacher>
+	<Subject>UIAT201 - Veri Tabanı Yönetim Sistemleri</Subject>
+	<Students>Bil. ve Ağ. Tek. II. Sınıf</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>78</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Yrd. Doç. Dr. Yavuz ÜNAL</Teacher>
+	<Subject>UIAT203 - Sunucu Yönetimi</Subject>
+	<Students>Bil. ve Ağ. Tek. II. Sınıf</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>79</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN</Teacher>
+	<Subject>UIAT205 - İnternet Programcılığı I</Subject>
+	<Students>Bil. ve Ağ. Tek. II. Sınıf</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>80</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN</Teacher>
+	<Subject>UIAT207 - Java Programlama</Subject>
+	<Students>Bil. ve Ağ. Tek. II. Sınıf</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>81</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Öğr.Gör. Sabri Serkan TAN</Teacher>
+	<Subject>UIAT209 - İleri Ağ Teknolojileri</Subject>
+	<Students>Bil. ve Ağ. Tek. II. Sınıf</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>82</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Öğr.Gör. Aslıhan BABUR</Teacher>
+	<Subject>UIAT213 - İçerik Yönetim Sistemleri</Subject>
+	<Students>Bil. ve Ağ. Tek. II. Sınıf</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>83</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Öğr.Gör. Aslıhan BABUR</Teacher>
+	<Subject>UIAT215 - Meslek Etiği</Subject>
+	<Students>Bil. ve Ağ. Tek. II. Sınıf</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>84</Id>
 	<Activity_Group_Id>0</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -1547,6 +1817,141 @@
 	<Activity_Id>24</Activity_Id>
 	<Preferred_Day>Cuma</Preferred_Day>
 	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>77</Activity_Id>
+	<Preferred_Day>Pazartesi</Preferred_Day>
+	<Preferred_Hour>19:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>75</Activity_Id>
+	<Preferred_Day>Salı</Preferred_Day>
+	<Preferred_Hour>18:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>72</Activity_Id>
+	<Preferred_Day>Salı</Preferred_Day>
+	<Preferred_Hour>22:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>73</Activity_Id>
+	<Preferred_Day>Çarşamba</Preferred_Day>
+	<Preferred_Hour>17:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>70</Activity_Id>
+	<Preferred_Day>Perşembe</Preferred_Day>
+	<Preferred_Hour>17:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>76</Activity_Id>
+	<Preferred_Day>Perşembe</Preferred_Day>
+	<Preferred_Hour>19:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>74</Activity_Id>
+	<Preferred_Day>Cuma</Preferred_Day>
+	<Preferred_Hour>19:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>71</Activity_Id>
+	<Preferred_Day>Cuma</Preferred_Day>
+	<Preferred_Hour>22:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>82</Activity_Id>
+	<Preferred_Day>Pazartesi</Preferred_Day>
+	<Preferred_Hour>17:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>78</Activity_Id>
+	<Preferred_Day>Salı</Preferred_Day>
+	<Preferred_Hour>18:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>83</Activity_Id>
+	<Preferred_Day>Salı</Preferred_Day>
+	<Preferred_Hour>22:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>81</Activity_Id>
+	<Preferred_Day>Çarşamba</Preferred_Day>
+	<Preferred_Hour>17:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>84</Activity_Id>
+	<Preferred_Day>Çarşamba</Preferred_Day>
+	<Preferred_Hour>21:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>80</Activity_Id>
+	<Preferred_Day>Perşembe</Preferred_Day>
+	<Preferred_Hour>17:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>79</Activity_Id>
+	<Preferred_Day>Cuma</Preferred_Day>
+	<Preferred_Hour>17:00</Preferred_Hour>
 	<Permanently_Locked>true</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
