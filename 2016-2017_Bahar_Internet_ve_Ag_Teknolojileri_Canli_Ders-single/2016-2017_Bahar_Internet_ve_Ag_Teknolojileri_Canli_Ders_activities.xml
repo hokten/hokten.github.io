@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Activities_Timetable>
+<Activity>
+	<Id>1</Id>
+	<Day>Perşembe</Day>
+	<Hour>21:00-21:15</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>2</Id>
+	<Day>Pazartesi</Day>
+	<Hour>20:15-20:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3</Id>
+	<Day>Perşembe</Day>
+	<Hour>18:30-18:45</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4</Id>
+	<Day>Pazartesi</Day>
+	<Hour>18:30-18:45</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5</Id>
+	<Day>Perşembe</Day>
+	<Hour>20:15-20:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6</Id>
+	<Day>Perşembe</Day>
+	<Hour>21:15-21:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>7</Id>
+	<Day>Perşembe</Day>
+	<Hour>22:15:22:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>8</Id>
+	<Day>Salı</Day>
+	<Hour>18:30-18:45</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>9</Id>
+	<Day>Perşembe</Day>
+	<Hour>18:30-18:45</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>10</Id>
+	<Day>Salı</Day>
+	<Hour>20:30-20:45</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>11</Id>
+	<Day>Çarşamba</Day>
+	<Hour>18:00-18:15</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>12</Id>
+	<Day>Perşembe</Day>
+	<Hour>20:00-20:15</Hour>
+	<Room></Room>
+</Activity>
+</Activities_Timetable>
