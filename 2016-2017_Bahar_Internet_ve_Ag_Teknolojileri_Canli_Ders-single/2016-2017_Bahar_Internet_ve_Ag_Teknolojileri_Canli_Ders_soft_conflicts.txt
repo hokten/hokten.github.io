@@ -1,5 +1,5 @@
 ﻿Soft conflicts of 2016-2017_Bahar_Internet_ve_Ag_Teknolojileri_Canli_Ders.fet
-Generated with FET 5.30.2 on 2/1/17 9:03 AM
+Generated with FET 5.30.2 on 2/3/17 9:48 PM
 
 Total soft conflicts: 0
 

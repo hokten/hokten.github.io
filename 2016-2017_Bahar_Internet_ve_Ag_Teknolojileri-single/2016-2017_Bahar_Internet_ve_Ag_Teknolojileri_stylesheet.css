@@ -1,0 +1,315 @@
+﻿@charset "UTF-8";
+
+/* CSS Stylesheet of 2016-2017_Bahar_Internet_ve_Ag_Teknolojileri.fet
+   Stylesheet generated with FET 5.30.2 on 2/3/17 8:07 PM */
+
+/* To do a page-break only after every second timetable, delete "page-break-before: always;" in "table.even_table". */
+/* Delete "page-break-before: always;" in "table.even_table" and in "table.odd_table" to skip page-breaks. */
+/* To hide an element just write the following phrase into the element: "display:none;" (without quotes). */
+
+p.back {
+  margin-top: 4ex;
+  margin-bottom: 5ex;
+}
+
+table {
+  text-align: center;
+  page-break-inside: avoid;
+}
+
+table.odd_table {
+  page-break-before: always;
+}
+
+table.even_table {
+  page-break-before: always;
+}
+
+table.detailed {
+  margin-left:auto; margin-right:auto;
+  text-align: center;
+  border: 0px;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+caption {
+
+}
+
+thead {
+
+}
+
+/* Some programs import "tfoot" incorrectly. So we use "tr.foot" instead of "tfoot". */
+
+tr.foot {
+
+}
+
+tbody {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+td.detailed {
+  border: 1px dashed silver;
+  border-bottom: 0;
+  border-top: 0;
+}
+
+th.xAxis {
+/* width: 8em; */
+}
+
+th.yAxis {
+  height: 8ex;
+}
+
+td.c_1 { /* Activity id: 1 (subject) */
+ background-color: rgb(146, 115, 222);
+ color: black;
+}
+
+td.c_2 { /* Activity id: 4 (subject) */
+ background-color: rgb(136, 120, 86);
+ color: white;
+}
+
+td.c_3 { /* Activity id: 8 (subject) */
+ background-color: rgb(217, 207, 165);
+ color: black;
+}
+
+td.c_4 { /* Activity id: 12 (subject) */
+ background-color: rgb(187, 190, 24);
+ color: black;
+}
+
+td.c_5 { /* Activity id: 16 (subject) */
+ background-color: rgb(182, 162, 146);
+ color: black;
+}
+
+td.c_6 { /* Activity id: 18 (subject) */
+ background-color: rgb(81, 169, 51);
+ color: black;
+}
+
+td.c_7 { /* Activity id: 21 (subject) */
+ background-color: rgb(23, 90, 1);
+ color: white;
+}
+
+td.c_8 { /* Activity id: 24 (subject) */
+ background-color: rgb(83, 172, 100);
+ color: black;
+}
+
+td.c_9 { /* Activity id: 28 (subject) */
+ background-color: rgb(77, 251, 1);
+ color: black;
+}
+
+td.c_10 { /* Activity id: 32 (subject) */
+ background-color: rgb(230, 149, 172);
+ color: black;
+}
+
+td.c_11 { /* Activity id: 35 (subject) */
+ background-color: rgb(39, 190, 121);
+ color: black;
+}
+
+td.c_12 { /* Activity id: 37 (subject) */
+ background-color: rgb(206, 23, 249);
+ color: white;
+}
+
+td.c_13 { /* Activity id: 1 (subject+students) */
+ background-color: rgb(181, 25, 204);
+ color: white;
+}
+
+td.c_14 { /* Activity id: 4 (subject+students) */
+ background-color: rgb(145, 192, 131);
+ color: black;
+}
+
+td.c_15 { /* Activity id: 8 (subject+students) */
+ background-color: rgb(231, 148, 6);
+ color: black;
+}
+
+td.c_16 { /* Activity id: 12 (subject+students) */
+ background-color: rgb(29, 84, 52);
+ color: white;
+}
+
+td.c_17 { /* Activity id: 16 (subject+students) */
+ background-color: rgb(61, 5, 245);
+ color: white;
+}
+
+td.c_18 { /* Activity id: 18 (subject+students) */
+ background-color: rgb(116, 71, 48);
+ color: white;
+}
+
+td.c_19 { /* Activity id: 21 (subject+students) */
+ background-color: rgb(11, 93, 116);
+ color: white;
+}
+
+td.c_20 { /* Activity id: 24 (subject+students) */
+ background-color: rgb(152, 97, 195);
+ color: white;
+}
+
+td.c_21 { /* Activity id: 28 (subject+students) */
+ background-color: rgb(23, 145, 51);
+ color: white;
+}
+
+td.c_22 { /* Activity id: 32 (subject+students) */
+ background-color: rgb(61, 231, 146);
+ color: black;
+}
+
+td.c_23 { /* Activity id: 35 (subject+students) */
+ background-color: rgb(103, 206, 63);
+ color: black;
+}
+
+td.c_24 { /* Activity id: 37 (subject+students) */
+ background-color: rgb(229, 228, 13);
+ color: black;
+}
+
+span.subject {
+
+}
+
+span.activitytag {
+
+}
+
+span.empty {
+  color: gray;
+}
+
+td.empty {
+  border-color:silver;
+  border-right-style:none;
+  border-bottom-style:none;
+  border-left-style:dotted;
+  border-top-style:dotted;
+}
+
+span.notAvailable {
+  color: gray;
+}
+
+td.notAvailable {
+  border-color:silver;
+  border-right-style:none;
+  border-bottom-style:none;
+  border-left-style:dotted;
+  border-top-style:dotted;
+}
+
+span.break {
+  color: gray;
+}
+
+td.break {
+  border-color:silver;
+  border-right-style:none;
+  border-bottom-style:none;
+  border-left-style:dotted;
+  border-top-style:dotted;
+}
+
+tr.studentsset, div.studentsset {
+
+}
+
+tr.teacher, div.teacher {
+
+}
+
+tr.room, div.room {
+
+}
+
+tr.line0, div.line0 {
+  font-size: smaller;
+}
+
+tr.line1, div.line1 {
+
+}
+
+tr.line2, div.line2 {
+  font-size: smaller;
+}
+
+tr.line3, div.line3 {
+  font-size: smaller;
+}
+
+/* Style the teachers free periods */
+
+div.DESCRIPTION {
+  text-align: left;
+  font-size: smaller;
+}
+
+div.TEACHER_HAS_SINGLE_GAP {
+  color: black;
+}
+
+div.TEACHER_HAS_BORDER_GAP {
+  color: gray;
+}
+
+div.TEACHER_HAS_BIG_GAP {
+  color: silver;
+}
+
+div.TEACHER_MUST_COME_EARLIER {
+  color: purple;
+}
+
+div.TEACHER_MUST_COME_MUCH_EARLIER {
+  font-size: smaller;
+  color: fuchsia;
+}
+
+div.TEACHER_MUST_STAY_LONGER {
+  color: teal;
+}
+
+div.TEACHER_MUST_STAY_MUCH_LONGER {
+  font-size: smaller;
+  color: aqua;
+}
+
+div.TEACHER_HAS_A_FREE_DAY {
+  font-size: smaller;
+  color: red;
+}
+
+div.TEACHER_IS_NOT_AVAILABLE {
+  font-size: smaller;
+  color: olive;
+}
+
+/* End of file. */
