@@ -2,19 +2,19 @@
 <Activities_Timetable>
 <Activity>
 	<Id>1</Id>
-	<Day>Perşembe</Day>
+	<Day>Çarşamba</Day>
 	<Hour>17:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>2</Id>
-	<Day>Perşembe</Day>
+	<Day>Çarşamba</Day>
 	<Hour>18:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>3</Id>
-	<Day>Perşembe</Day>
+	<Day>Çarşamba</Day>
 	<Hour>19:00</Hour>
 	<Room></Room>
 </Activity>
@@ -45,25 +45,25 @@
 <Activity>
 	<Id>8</Id>
 	<Day>Çarşamba</Day>
-	<Hour>18:00</Hour>
+	<Hour>20:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>9</Id>
 	<Day>Çarşamba</Day>
-	<Hour>19:00</Hour>
+	<Hour>21:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>10</Id>
 	<Day>Çarşamba</Day>
-	<Hour>20:00</Hour>
+	<Hour>22:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>11</Id>
 	<Day>Çarşamba</Day>
-	<Hour>21:00</Hour>
+	<Hour>23:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
@@ -87,19 +87,19 @@
 <Activity>
 	<Id>15</Id>
 	<Day>Cuma</Day>
-	<Hour>18:00</Hour>
+	<Hour>17:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>16</Id>
 	<Day>Cuma</Day>
-	<Hour>19:00</Hour>
+	<Hour>18:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>17</Id>
 	<Day>Cuma</Day>
-	<Hour>20:00</Hour>
+	<Hour>19:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
@@ -122,19 +122,19 @@
 </Activity>
 <Activity>
 	<Id>21</Id>
-	<Day>Perşembe</Day>
+	<Day>Çarşamba</Day>
 	<Hour>20:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>22</Id>
-	<Day>Perşembe</Day>
+	<Day>Çarşamba</Day>
 	<Hour>21:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>23</Id>
-	<Day>Perşembe</Day>
+	<Day>Çarşamba</Day>
 	<Hour>22:00</Hour>
 	<Room></Room>
 </Activity>
@@ -218,7 +218,7 @@
 </Activity>
 <Activity>
 	<Id>37</Id>
-	<Day>Perşembe</Day>
+	<Day>Çarşamba</Day>
 	<Hour>23:00</Hour>
 	<Room></Room>
 </Activity>
