@@ -95,7 +95,7 @@
    </Day>
    <Day name="Cuma">
     <Hour name="17:00">
-     <Subject name="UIAT114 - NESNE TABANLI PROGRAMLAMA"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
+     
     </Hour>
     <Hour name="18:00">
      
@@ -104,7 +104,7 @@
      
     </Hour>
     <Hour name="20:00">
-     
+     <Subject name="UIAT114 - NESNE TABANLI PROGRAMLAMA"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
     </Hour>
     <Hour name="21:00">
      

@@ -95,7 +95,7 @@
    </Day>
    <Day name="Cuma">
     <Hour name="17:00">
-      <Teacher name="Öğr.Gör. Sabri Serkan TAN"></Teacher><Subject name="UIAT114 - NESNE TABANLI PROGRAMLAMA"></Subject>
+     
     </Hour>
     <Hour name="18:00">
       <Teacher name="Yrd. Doç. Dr. Yavuz ÜNAL"></Teacher><Subject name="UIAT118 - E-TİCARET"></Subject>
@@ -104,7 +104,7 @@
       <Teacher name="Yrd. Doç. Dr. Yavuz ÜNAL"></Teacher><Subject name="UIAT118 - E-TİCARET"></Subject>
     </Hour>
     <Hour name="20:00">
-     
+      <Teacher name="Öğr.Gör. Sabri Serkan TAN"></Teacher><Subject name="UIAT114 - NESNE TABANLI PROGRAMLAMA"></Subject>
     </Hour>
     <Hour name="21:00">
      

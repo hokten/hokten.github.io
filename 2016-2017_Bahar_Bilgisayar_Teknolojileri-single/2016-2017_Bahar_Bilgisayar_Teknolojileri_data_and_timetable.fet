@@ -1204,7 +1204,7 @@
 
 <Rooms_List>
 <Room>
-	<Name>403</Name>
+	<Name>412</Name>
 	<Building>Laboratuarlar Binası</Building>
 	<Capacity>30000</Capacity>
 </Room>
@@ -2806,18 +2806,16 @@
 <ConstraintSubjectPreferredRooms>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>BIL102 - MATEMATİK</Subject>
-	<Number_of_Preferred_Rooms>2</Number_of_Preferred_Rooms>
-	<Preferred_Room>403</Preferred_Room>
-	<Preferred_Room>402</Preferred_Room>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>412</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRooms>
 <ConstraintSubjectPreferredRooms>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>GBIL102 - MATEMATİK</Subject>
-	<Number_of_Preferred_Rooms>2</Number_of_Preferred_Rooms>
-	<Preferred_Room>403</Preferred_Room>
-	<Preferred_Room>402</Preferred_Room>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>412</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRooms>
@@ -2874,7 +2872,7 @@
 	<Subject>BIL110 - BİLGİSAYAR DONANIMI</Subject>
 	<Number_of_Preferred_Rooms>2</Number_of_Preferred_Rooms>
 	<Preferred_Room>503</Preferred_Room>
-	<Preferred_Room>403</Preferred_Room>
+	<Preferred_Room>412</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRooms>
@@ -2883,27 +2881,23 @@
 	<Subject>GBIL110 - BİLGİSAYAR DONANIMI</Subject>
 	<Number_of_Preferred_Rooms>2</Number_of_Preferred_Rooms>
 	<Preferred_Room>503</Preferred_Room>
-	<Preferred_Room>403</Preferred_Room>
+	<Preferred_Room>412</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRooms>
 <ConstraintSubjectPreferredRooms>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>BIL112 - İLETİŞİM</Subject>
-	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
-	<Preferred_Room>403</Preferred_Room>
-	<Preferred_Room>402</Preferred_Room>
-	<Preferred_Room>401</Preferred_Room>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>412</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRooms>
 <ConstraintSubjectPreferredRooms>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>GBIL112 - İLETİŞİM</Subject>
-	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
-	<Preferred_Room>403</Preferred_Room>
-	<Preferred_Room>402</Preferred_Room>
-	<Preferred_Room>401</Preferred_Room>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>412</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRooms>
@@ -2919,9 +2913,8 @@
 <ConstraintSubjectPreferredRooms>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>GBIL202 - İNTERNET PROGRAMCILIĞI -II</Subject>
-	<Number_of_Preferred_Rooms>2</Number_of_Preferred_Rooms>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
 	<Preferred_Room>503</Preferred_Room>
-	<Preferred_Room>502</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRooms>
@@ -2944,9 +2937,8 @@
 <ConstraintSubjectPreferredRooms>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>BIL206 - SİSTEM ANALİZİ VE TASARIMI</Subject>
-	<Number_of_Preferred_Rooms>2</Number_of_Preferred_Rooms>
-	<Preferred_Room>403</Preferred_Room>
-	<Preferred_Room>402</Preferred_Room>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>503</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRooms>
@@ -2961,20 +2953,16 @@
 <ConstraintSubjectPreferredRooms>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>BIL208 - WEB PROJESİ YÖNETİMİ </Subject>
-	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
-	<Preferred_Room>502</Preferred_Room>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
 	<Preferred_Room>503</Preferred_Room>
-	<Preferred_Room>401</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRooms>
 <ConstraintSubjectPreferredRooms>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>GBIL208 - WEB PROJESİ YÖNETİMİ </Subject>
-	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
-	<Preferred_Room>503</Preferred_Room>
-	<Preferred_Room>502</Preferred_Room>
-	<Preferred_Room>401</Preferred_Room>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>412</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRooms>
@@ -2999,20 +2987,16 @@
 <ConstraintSubjectPreferredRooms>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>BIL212 - MESLEKİ YABANCI DİL-II</Subject>
-	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
-	<Preferred_Room>403</Preferred_Room>
-	<Preferred_Room>402</Preferred_Room>
-	<Preferred_Room>401</Preferred_Room>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>412</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRooms>
 <ConstraintSubjectPreferredRooms>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>GBIL212 - MESLEKİ YABANCI DİL-II</Subject>
-	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
-	<Preferred_Room>403</Preferred_Room>
-	<Preferred_Room>402</Preferred_Room>
-	<Preferred_Room>401</Preferred_Room>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>412</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRooms>
@@ -3037,22 +3021,16 @@
 <ConstraintSubjectPreferredRooms>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>BIL216 - YAZILIM MİMARİLERİ</Subject>
-	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
-	<Preferred_Room>502</Preferred_Room>
-	<Preferred_Room>402</Preferred_Room>
-	<Preferred_Room>403</Preferred_Room>
-	<Preferred_Room>503</Preferred_Room>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>412</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRooms>
 <ConstraintSubjectPreferredRooms>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>GBIL216 - YAZILIM MİMARİLERİ</Subject>
-	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
-	<Preferred_Room>502</Preferred_Room>
-	<Preferred_Room>402</Preferred_Room>
-	<Preferred_Room>403</Preferred_Room>
-	<Preferred_Room>503</Preferred_Room>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>412</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRooms>
@@ -3147,7 +3125,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>16</Activity_Id>
-	<Room>403</Room>
+	<Room>412</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3155,7 +3133,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>17</Activity_Id>
-	<Room>403</Room>
+	<Room>412</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3163,7 +3141,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>18</Activity_Id>
-	<Room>403</Room>
+	<Room>412</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3171,7 +3149,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>19</Activity_Id>
-	<Room>401</Room>
+	<Room>412</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3243,7 +3221,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>28</Activity_Id>
-	<Room>402</Room>
+	<Room>503</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3251,7 +3229,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>29</Activity_Id>
-	<Room>402</Room>
+	<Room>503</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3259,7 +3237,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>30</Activity_Id>
-	<Room>403</Room>
+	<Room>503</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3267,7 +3245,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>31</Activity_Id>
-	<Room>402</Room>
+	<Room>503</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3275,7 +3253,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>32</Activity_Id>
-	<Room>401</Room>
+	<Room>503</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3283,7 +3261,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>33</Activity_Id>
-	<Room>401</Room>
+	<Room>503</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3339,7 +3317,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>42</Activity_Id>
-	<Room>402</Room>
+	<Room>412</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3347,7 +3325,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>43</Activity_Id>
-	<Room>402</Room>
+	<Room>412</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3443,7 +3421,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>59</Activity_Id>
-	<Room>403</Room>
+	<Room>412</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3451,7 +3429,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>60</Activity_Id>
-	<Room>403</Room>
+	<Room>412</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3459,7 +3437,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>61</Activity_Id>
-	<Room>403</Room>
+	<Room>412</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3467,7 +3445,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>62</Activity_Id>
-	<Room>403</Room>
+	<Room>412</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3491,7 +3469,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>65</Activity_Id>
-	<Room>502</Room>
+	<Room>503</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3499,7 +3477,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>66</Activity_Id>
-	<Room>502</Room>
+	<Room>503</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3571,7 +3549,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>75</Activity_Id>
-	<Room>503</Room>
+	<Room>412</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3579,7 +3557,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>76</Activity_Id>
-	<Room>503</Room>
+	<Room>412</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3619,7 +3597,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>81</Activity_Id>
-	<Room>402</Room>
+	<Room>412</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3627,7 +3605,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>82</Activity_Id>
-	<Room>402</Room>
+	<Room>412</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3651,7 +3629,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>85</Activity_Id>
-	<Room>402</Room>
+	<Room>412</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3659,7 +3637,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>86</Activity_Id>
-	<Room>402</Room>
+	<Room>412</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3667,7 +3645,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>87</Activity_Id>
-	<Room>402</Room>
+	<Room>412</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3675,7 +3653,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>88</Activity_Id>
-	<Room>402</Room>
+	<Room>412</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3683,7 +3661,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>89</Activity_Id>
-	<Room>402</Room>
+	<Room>412</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3691,7 +3669,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>90</Activity_Id>
-	<Room>403</Room>
+	<Room>412</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3699,7 +3677,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>91</Activity_Id>
-	<Room>403</Room>
+	<Room>412</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3707,7 +3685,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>92</Activity_Id>
-	<Room>402</Room>
+	<Room>412</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3715,7 +3693,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>93</Activity_Id>
-	<Room>402</Room>
+	<Room>412</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3723,7 +3701,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>94</Activity_Id>
-	<Room>403</Room>
+	<Room>412</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3731,7 +3709,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>95</Activity_Id>
-	<Room>401</Room>
+	<Room>412</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3739,7 +3717,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>96</Activity_Id>
-	<Room>401</Room>
+	<Room>412</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
