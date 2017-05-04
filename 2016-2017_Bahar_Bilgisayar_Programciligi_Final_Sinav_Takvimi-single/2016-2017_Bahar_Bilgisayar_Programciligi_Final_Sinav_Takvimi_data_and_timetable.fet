@@ -1,0 +1,2532 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<fet version="5.30.2">
+
+<Institution_Name>Amasya Üniversitesi Teknik Bilimler Meslek Yüksekokulu</Institution_Name>
+
+<Comments>Default comments</Comments>
+
+<Days_List>
+<Number_of_Days>12</Number_of_Days>
+<Day>
+	<Name>22.05.2017 Pazartesi</Name>
+</Day>
+<Day>
+	<Name>23.05.2017 Salı</Name>
+</Day>
+<Day>
+	<Name>24.05.2017 Çarşamba</Name>
+</Day>
+<Day>
+	<Name>25.05.2017 Perşembe</Name>
+</Day>
+<Day>
+	<Name>26.05.2017 Cuma</Name>
+</Day>
+<Day>
+	<Name>27.05.2017 Cumartesi</Name>
+</Day>
+<Day>
+	<Name>28.05.2017 Pazar</Name>
+</Day>
+<Day>
+	<Name>29.05.2017 Pazartesi</Name>
+</Day>
+<Day>
+	<Name>30.05.2017 Salı</Name>
+</Day>
+<Day>
+	<Name>31.05.2017 Çarşamba</Name>
+</Day>
+<Day>
+	<Name>01.06.2017 Perşembe</Name>
+</Day>
+<Day>
+	<Name>02.06.2017 Cuma</Name>
+</Day>
+</Days_List>
+
+<Hours_List>
+<Number_of_Hours>5</Number_of_Hours>
+<Hour>
+	<Name>09:00</Name>
+</Hour>
+<Hour>
+	<Name>10:30</Name>
+</Hour>
+<Hour>
+	<Name>12:00</Name>
+</Hour>
+<Hour>
+	<Name>13:30</Name>
+</Hour>
+<Hour>
+	<Name>15:00</Name>
+</Hour>
+</Hours_List>
+
+<Subjects_List>
+<Subject>
+	<Name>UZEM - ORTAK DERSLER</Name>
+</Subject>
+<Subject>
+	<Name>BIL102 - MATEMATİK</Name>
+</Subject>
+<Subject>
+	<Name>BIL104 - GÖRSEL PROGRAMLAMA-II</Name>
+</Subject>
+<Subject>
+	<Name>BIL106 - GRAFİK VE ANİMASYON-II</Name>
+</Subject>
+<Subject>
+	<Name>BIL108 - VERİ TABANI-I</Name>
+</Subject>
+<Subject>
+	<Name>BIL110 - BİLGİSAYAR DONANIMI</Name>
+</Subject>
+<Subject>
+	<Name>BIL112 - İLETİŞİM</Name>
+</Subject>
+<Subject>
+	<Name>BIL202 - İNTERNET PROGRAMCILIĞI -II</Name>
+</Subject>
+<Subject>
+	<Name>BIL204 - NESNE TABANLI PROGRAMLAMA II</Name>
+</Subject>
+<Subject>
+	<Name>BIL206 - SİSTEM ANALİZİ VE TASARIMI</Name>
+</Subject>
+<Subject>
+	<Name>BIL208 - WEB PROJESİ YÖNETİMİ </Name>
+</Subject>
+<Subject>
+	<Name>BIL210 - SUNUCU İŞLETİM SİSTEMİ</Name>
+</Subject>
+<Subject>
+	<Name>BIL212 - MESLEKİ YABANCI DİL-II</Name>
+</Subject>
+<Subject>
+	<Name>BIL214 - İÇERİK YÖNETİM SİSTEMİ</Name>
+</Subject>
+<Subject>
+	<Name>BIL216 - YAZILIM MİMARİLERİ</Name>
+</Subject>
+</Subjects_List>
+
+<Activity_Tags_List>
+<Activity_Tag>
+	<Name>IKMEP</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>METEB</Name>
+</Activity_Tag>
+</Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>Öğr.Gör. Sabri Serkan TAN</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+</Teacher>
+<Teacher>
+	<Name>Öğr.Gör. Aslıhan BABUR</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+</Teacher>
+<Teacher>
+	<Name>Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+</Teacher>
+<Teacher>
+	<Name>Doç. Dr. Hasan TANAK</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+</Teacher>
+<Teacher>
+	<Name>Öğr. Gör. Şenol TOPRAK</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+</Teacher>
+<Teacher>
+	<Name>UZEM</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>Bilgisayar Programcılığı</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Group>
+		<Name>Bil. Prog. I. Sınıf (IKMEP)</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Subgroup>
+			<Name>I-A</Name>
+			<Number_of_Students>40</Number_of_Students>
+		</Subgroup>
+		<Subgroup>
+			<Name>I-B</Name>
+			<Number_of_Students>40</Number_of_Students>
+		</Subgroup>
+		<Subgroup>
+			<Name>I-C</Name>
+			<Number_of_Students>40</Number_of_Students>
+		</Subgroup>
+		<Subgroup>
+			<Name>I-D</Name>
+			<Number_of_Students>40</Number_of_Students>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>Bil. Prog. II. Sınıf (IKMEP)</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Subgroup>
+			<Name>II-A</Name>
+			<Number_of_Students>40</Number_of_Students>
+		</Subgroup>
+		<Subgroup>
+			<Name>II-B</Name>
+			<Number_of_Students>40</Number_of_Students>
+		</Subgroup>
+		<Subgroup>
+			<Name>II-C</Name>
+			<Number_of_Students>40</Number_of_Students>
+		</Subgroup>
+		<Subgroup>
+			<Name>II-D</Name>
+			<Number_of_Students>40</Number_of_Students>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>Bil. Prog. I. Sınıf (METEB)</Name>
+		<Number_of_Students>0</Number_of_Students>
+	</Group>
+	<Group>
+		<Name>Bil. Prog. II. Sınıf (METEB)</Name>
+		<Number_of_Students>0</Number_of_Students>
+	</Group>
+</Year>
+</Students_List>
+
+<Activities_List>
+<Activity>
+	<Teacher>Öğr.Gör. Sabri Serkan TAN</Teacher>
+	<Subject>BIL102 - MATEMATİK</Subject>
+	<Students>I-A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>1</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>40</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Öğr.Gör. Aslıhan BABUR</Teacher>
+	<Subject>BIL102 - MATEMATİK</Subject>
+	<Students>I-B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>2</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>40</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN</Teacher>
+	<Subject>BIL102 - MATEMATİK</Subject>
+	<Students>I-C</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>3</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>40</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Öğr.Gör. Aslıhan BABUR</Teacher>
+	<Subject>BIL104 - GÖRSEL PROGRAMLAMA-II</Subject>
+	<Students>I-A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>4</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>40</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Öğr.Gör. Sabri Serkan TAN</Teacher>
+	<Subject>BIL104 - GÖRSEL PROGRAMLAMA-II</Subject>
+	<Students>I-B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>5</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>40</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Öğr.Gör. Aslıhan BABUR</Teacher>
+	<Subject>BIL106 - GRAFİK VE ANİMASYON-II</Subject>
+	<Students>I-A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>7</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Öğr.Gör. Sabri Serkan TAN</Teacher>
+	<Subject>BIL108 - VERİ TABANI-I</Subject>
+	<Students>I-A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>8</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>40</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Öğr.Gör. Aslıhan BABUR</Teacher>
+	<Subject>BIL108 - VERİ TABANI-I</Subject>
+	<Students>I-B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>9</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>40</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN</Teacher>
+	<Subject>BIL108 - VERİ TABANI-I</Subject>
+	<Students>I-C</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>10</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>40</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Öğr.Gör. Aslıhan BABUR</Teacher>
+	<Subject>BIL110 - BİLGİSAYAR DONANIMI</Subject>
+	<Students>I-A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>11</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>40</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Öğr.Gör. Sabri Serkan TAN</Teacher>
+	<Subject>BIL110 - BİLGİSAYAR DONANIMI</Subject>
+	<Students>I-B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>12</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>40</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Öğr.Gör. Sabri Serkan TAN</Teacher>
+	<Subject>BIL112 - İLETİŞİM</Subject>
+	<Students>I-A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>13</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>40</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Öğr. Gör. Şenol TOPRAK</Teacher>
+	<Subject>BIL112 - İLETİŞİM</Subject>
+	<Students>I-B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>14</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>40</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN</Teacher>
+	<Subject>BIL202 - İNTERNET PROGRAMCILIĞI -II</Subject>
+	<Students>II-A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>15</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>33</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Öğr.Gör. Sabri Serkan TAN</Teacher>
+	<Subject>BIL202 - İNTERNET PROGRAMCILIĞI -II</Subject>
+	<Students>II-B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>16</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>33</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Öğr.Gör. Sabri Serkan TAN</Teacher>
+	<Subject>BIL204 - NESNE TABANLI PROGRAMLAMA II</Subject>
+	<Students>II-A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>17</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>40</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Öğr.Gör. Aslıhan BABUR</Teacher>
+	<Subject>BIL204 - NESNE TABANLI PROGRAMLAMA II</Subject>
+	<Students>II-B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>18</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>40</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Öğr.Gör. Sabri Serkan TAN</Teacher>
+	<Subject>BIL206 - SİSTEM ANALİZİ VE TASARIMI</Subject>
+	<Students>II-A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>19</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN</Teacher>
+	<Subject>BIL208 - WEB PROJESİ YÖNETİMİ </Subject>
+	<Students>II-A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>20</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN</Teacher>
+	<Subject>BIL210 - SUNUCU İŞLETİM SİSTEMİ</Subject>
+	<Students>II-A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>21</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>40</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Öğr.Gör. Aslıhan BABUR</Teacher>
+	<Subject>BIL210 - SUNUCU İŞLETİM SİSTEMİ</Subject>
+	<Students>II-B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>22</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>40</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Öğr.Gör. Aslıhan BABUR</Teacher>
+	<Subject>BIL212 - MESLEKİ YABANCI DİL-II</Subject>
+	<Students>II-A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>23</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>40</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Öğr. Gör. Şenol TOPRAK</Teacher>
+	<Subject>BIL212 - MESLEKİ YABANCI DİL-II</Subject>
+	<Students>II-B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>24</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>40</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN</Teacher>
+	<Subject>BIL214 - İÇERİK YÖNETİM SİSTEMİ</Subject>
+	<Students>II-A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>25</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>40</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Öğr.Gör. Aslıhan BABUR</Teacher>
+	<Subject>BIL214 - İÇERİK YÖNETİM SİSTEMİ</Subject>
+	<Students>II-B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>26</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>40</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Öğr.Gör. Aslıhan BABUR</Teacher>
+	<Subject>BIL216 - YAZILIM MİMARİLERİ</Subject>
+	<Students>II-A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>27</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>40</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Öğr.Gör. Sabri Serkan TAN</Teacher>
+	<Subject>BIL216 - YAZILIM MİMARİLERİ</Subject>
+	<Students>II-B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>28</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>40</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>UZEM</Teacher>
+	<Subject>UZEM - ORTAK DERSLER</Subject>
+	<Students>I-A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>29</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>40</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+</Activities_List>
+
+<Buildings_List>
+<Building>
+	<Name>Teknoloji Fakültesi</Name>
+</Building>
+</Buildings_List>
+
+<Rooms_List>
+<Room>
+	<Name>C101</Name>
+	<Building>Teknoloji Fakültesi</Building>
+	<Capacity>40</Capacity>
+</Room>
+<Room>
+	<Name>C102</Name>
+	<Building>Teknoloji Fakültesi</Building>
+	<Capacity>40</Capacity>
+</Room>
+<Room>
+	<Name>C104</Name>
+	<Building>Teknoloji Fakültesi</Building>
+	<Capacity>40</Capacity>
+</Room>
+<Room>
+	<Name>C105</Name>
+	<Building>Teknoloji Fakültesi</Building>
+	<Capacity>40</Capacity>
+</Room>
+<Room>
+	<Name>B212</Name>
+	<Building>Teknoloji Fakültesi</Building>
+	<Capacity>170</Capacity>
+</Room>
+<Room>
+	<Name>B213</Name>
+	<Building></Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>UZEM</Name>
+	<Building></Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>Laboratuar</Name>
+	<Building></Building>
+	<Capacity>30000</Capacity>
+</Room>
+</Rooms_List>
+
+<Time_Constraints_List>
+<ConstraintBasicCompulsoryTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsoryTime>
+<ConstraintStudentsSetNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>Bilgisayar Programcılığı</Students>
+	<Number_of_Not_Available_Times>31</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>29.05.2017 Pazartesi</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetNotAvailableTimes>
+<ConstraintStudentsSetNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>Bil. Prog. I. Sınıf (IKMEP)</Students>
+	<Number_of_Not_Available_Times>45</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>22.05.2017 Pazartesi</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>22.05.2017 Pazartesi</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>22.05.2017 Pazartesi</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>29.05.2017 Pazartesi</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>29.05.2017 Pazartesi</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>29.05.2017 Pazartesi</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>30.05.2017 Salı</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>30.05.2017 Salı</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>30.05.2017 Salı</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>30.05.2017 Salı</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>31.05.2017 Çarşamba</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>31.05.2017 Çarşamba</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>31.05.2017 Çarşamba</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>01.06.2017 Perşembe</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>01.06.2017 Perşembe</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>01.06.2017 Perşembe</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>01.06.2017 Perşembe</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>02.06.2017 Cuma</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>02.06.2017 Cuma</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>02.06.2017 Cuma</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>02.06.2017 Cuma</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetNotAvailableTimes>
+<ConstraintStudentsSetNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>Bil. Prog. II. Sınıf (IKMEP)</Students>
+	<Number_of_Not_Available_Times>46</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>22.05.2017 Pazartesi</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>22.05.2017 Pazartesi</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>22.05.2017 Pazartesi</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>22.05.2017 Pazartesi</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>29.05.2017 Pazartesi</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>29.05.2017 Pazartesi</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>29.05.2017 Pazartesi</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>29.05.2017 Pazartesi</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>30.05.2017 Salı</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>30.05.2017 Salı</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>30.05.2017 Salı</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>30.05.2017 Salı</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>31.05.2017 Çarşamba</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>31.05.2017 Çarşamba</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>31.05.2017 Çarşamba</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>31.05.2017 Çarşamba</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>01.06.2017 Perşembe</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>01.06.2017 Perşembe</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>01.06.2017 Perşembe</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>02.06.2017 Cuma</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>02.06.2017 Cuma</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>02.06.2017 Cuma</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetNotAvailableTimes>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>29</Activity_Id>
+	<Preferred_Day>29.05.2017 Pazartesi</Preferred_Day>
+	<Preferred_Hour>10:30</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>1</Activity_Id>
+	<Preferred_Day>31.05.2017 Çarşamba</Preferred_Day>
+	<Preferred_Hour>10:30</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivitiesSameStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>1</Activity_Id>
+	<Activity_Id>2</Activity_Id>
+	<Activity_Id>3</Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesSameStartingTime>
+<ConstraintActivitiesSameStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>4</Activity_Id>
+	<Activity_Id>5</Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesSameStartingTime>
+<ConstraintActivitiesSameStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>8</Activity_Id>
+	<Activity_Id>9</Activity_Id>
+	<Activity_Id>10</Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesSameStartingTime>
+<ConstraintActivitiesSameStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>11</Activity_Id>
+	<Activity_Id>12</Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesSameStartingTime>
+<ConstraintActivitiesSameStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>13</Activity_Id>
+	<Activity_Id>14</Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesSameStartingTime>
+<ConstraintActivitiesSameStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>15</Activity_Id>
+	<Activity_Id>16</Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesSameStartingTime>
+<ConstraintActivitiesSameStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>17</Activity_Id>
+	<Activity_Id>18</Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesSameStartingTime>
+<ConstraintActivitiesSameStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>21</Activity_Id>
+	<Activity_Id>22</Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesSameStartingTime>
+<ConstraintActivitiesSameStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>23</Activity_Id>
+	<Activity_Id>24</Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesSameStartingTime>
+<ConstraintActivitiesSameStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>25</Activity_Id>
+	<Activity_Id>26</Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesSameStartingTime>
+<ConstraintActivitiesSameStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>27</Activity_Id>
+	<Activity_Id>28</Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesSameStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>7</Activity_Id>
+	<Preferred_Day>22.05.2017 Pazartesi</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>20</Activity_Id>
+	<Preferred_Day>01.06.2017 Perşembe</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>19</Activity_Id>
+	<Preferred_Day>02.06.2017 Cuma</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>27</Activity_Id>
+	<Preferred_Day>31.05.2017 Çarşamba</Preferred_Day>
+	<Preferred_Hour>12:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>4</Activity_Id>
+	<Preferred_Day>22.05.2017 Pazartesi</Preferred_Day>
+	<Preferred_Hour>12:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>2</Activity_Id>
+	<Preferred_Day>31.05.2017 Çarşamba</Preferred_Day>
+	<Preferred_Hour>10:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>3</Activity_Id>
+	<Preferred_Day>31.05.2017 Çarşamba</Preferred_Day>
+	<Preferred_Hour>10:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>5</Activity_Id>
+	<Preferred_Day>22.05.2017 Pazartesi</Preferred_Day>
+	<Preferred_Hour>12:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>8</Activity_Id>
+	<Preferred_Day>02.06.2017 Cuma</Preferred_Day>
+	<Preferred_Hour>12:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>9</Activity_Id>
+	<Preferred_Day>02.06.2017 Cuma</Preferred_Day>
+	<Preferred_Hour>12:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>10</Activity_Id>
+	<Preferred_Day>02.06.2017 Cuma</Preferred_Day>
+	<Preferred_Hour>12:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>11</Activity_Id>
+	<Preferred_Day>31.05.2017 Çarşamba</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>12</Activity_Id>
+	<Preferred_Day>31.05.2017 Çarşamba</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>13</Activity_Id>
+	<Preferred_Day>01.06.2017 Perşembe</Preferred_Day>
+	<Preferred_Hour>12:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>14</Activity_Id>
+	<Preferred_Day>01.06.2017 Perşembe</Preferred_Day>
+	<Preferred_Hour>12:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>15</Activity_Id>
+	<Preferred_Day>02.06.2017 Cuma</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>16</Activity_Id>
+	<Preferred_Day>02.06.2017 Cuma</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>17</Activity_Id>
+	<Preferred_Day>30.05.2017 Salı</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>18</Activity_Id>
+	<Preferred_Day>30.05.2017 Salı</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>21</Activity_Id>
+	<Preferred_Day>01.06.2017 Perşembe</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>22</Activity_Id>
+	<Preferred_Day>01.06.2017 Perşembe</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>23</Activity_Id>
+	<Preferred_Day>22.05.2017 Pazartesi</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>24</Activity_Id>
+	<Preferred_Day>22.05.2017 Pazartesi</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>25</Activity_Id>
+	<Preferred_Day>29.05.2017 Pazartesi</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>26</Activity_Id>
+	<Preferred_Day>29.05.2017 Pazartesi</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>28</Activity_Id>
+	<Preferred_Day>31.05.2017 Çarşamba</Preferred_Day>
+	<Preferred_Hour>12:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+</Time_Constraints_List>
+
+<Space_Constraints_List>
+<ConstraintBasicCompulsorySpace>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsorySpace>
+<ConstraintRoomNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Room>C102</Room>
+	<Number_of_Not_Available_Times>35</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>22.05.2017 Pazartesi</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>22.05.2017 Pazartesi</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>22.05.2017 Pazartesi</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>29.05.2017 Pazartesi</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>29.05.2017 Pazartesi</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>29.05.2017 Pazartesi</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>30.05.2017 Salı</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>30.05.2017 Salı</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>30.05.2017 Salı</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>31.05.2017 Çarşamba</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>31.05.2017 Çarşamba</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>01.06.2017 Perşembe</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>01.06.2017 Perşembe</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>01.06.2017 Perşembe</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>02.06.2017 Cuma</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>02.06.2017 Cuma</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>02.06.2017 Cuma</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintRoomNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Room>C104</Room>
+	<Number_of_Not_Available_Times>35</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>22.05.2017 Pazartesi</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>22.05.2017 Pazartesi</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>22.05.2017 Pazartesi</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>29.05.2017 Pazartesi</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>29.05.2017 Pazartesi</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>29.05.2017 Pazartesi</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>30.05.2017 Salı</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>30.05.2017 Salı</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>30.05.2017 Salı</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>31.05.2017 Çarşamba</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>31.05.2017 Çarşamba</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>01.06.2017 Perşembe</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>01.06.2017 Perşembe</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>01.06.2017 Perşembe</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>02.06.2017 Cuma</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>02.06.2017 Cuma</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>02.06.2017 Cuma</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintRoomNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Room>C101</Room>
+	<Number_of_Not_Available_Times>47</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>22.05.2017 Pazartesi</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>22.05.2017 Pazartesi</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>22.05.2017 Pazartesi</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>22.05.2017 Pazartesi</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>29.05.2017 Pazartesi</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>29.05.2017 Pazartesi</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>29.05.2017 Pazartesi</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>29.05.2017 Pazartesi</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>30.05.2017 Salı</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>30.05.2017 Salı</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>30.05.2017 Salı</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>30.05.2017 Salı</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>31.05.2017 Çarşamba</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>31.05.2017 Çarşamba</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>31.05.2017 Çarşamba</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>01.06.2017 Perşembe</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>01.06.2017 Perşembe</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>01.06.2017 Perşembe</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>01.06.2017 Perşembe</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>02.06.2017 Cuma</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>02.06.2017 Cuma</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>02.06.2017 Cuma</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>02.06.2017 Cuma</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintRoomNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Room>C105</Room>
+	<Number_of_Not_Available_Times>47</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>22.05.2017 Pazartesi</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>22.05.2017 Pazartesi</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>22.05.2017 Pazartesi</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>22.05.2017 Pazartesi</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>23.05.2017 Salı</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>24.05.2017 Çarşamba</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>25.05.2017 Perşembe</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>26.05.2017 Cuma</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>27.05.2017 Cumartesi</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>28.05.2017 Pazar</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>29.05.2017 Pazartesi</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>29.05.2017 Pazartesi</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>29.05.2017 Pazartesi</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>29.05.2017 Pazartesi</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>30.05.2017 Salı</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>30.05.2017 Salı</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>30.05.2017 Salı</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>30.05.2017 Salı</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>31.05.2017 Çarşamba</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>31.05.2017 Çarşamba</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>31.05.2017 Çarşamba</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>01.06.2017 Perşembe</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>01.06.2017 Perşembe</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>01.06.2017 Perşembe</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>01.06.2017 Perşembe</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>02.06.2017 Cuma</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>02.06.2017 Cuma</Day>
+		<Hour>10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>02.06.2017 Cuma</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>02.06.2017 Cuma</Day>
+		<Hour>13:30</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>UZEM - ORTAK DERSLER</Subject>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>UZEM</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>BIL102 - MATEMATİK</Subject>
+	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
+	<Preferred_Room>C101</Preferred_Room>
+	<Preferred_Room>C102</Preferred_Room>
+	<Preferred_Room>C104</Preferred_Room>
+	<Preferred_Room>C105</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>BIL104 - GÖRSEL PROGRAMLAMA-II</Subject>
+	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
+	<Preferred_Room>C101</Preferred_Room>
+	<Preferred_Room>C102</Preferred_Room>
+	<Preferred_Room>C104</Preferred_Room>
+	<Preferred_Room>C105</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>BIL106 - GRAFİK VE ANİMASYON-II</Subject>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>Laboratuar</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>BIL108 - VERİ TABANI-I</Subject>
+	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
+	<Preferred_Room>C101</Preferred_Room>
+	<Preferred_Room>C102</Preferred_Room>
+	<Preferred_Room>C104</Preferred_Room>
+	<Preferred_Room>C105</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>BIL110 - BİLGİSAYAR DONANIMI</Subject>
+	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
+	<Preferred_Room>C101</Preferred_Room>
+	<Preferred_Room>C102</Preferred_Room>
+	<Preferred_Room>C104</Preferred_Room>
+	<Preferred_Room>C105</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>BIL112 - İLETİŞİM</Subject>
+	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
+	<Preferred_Room>C101</Preferred_Room>
+	<Preferred_Room>C102</Preferred_Room>
+	<Preferred_Room>C104</Preferred_Room>
+	<Preferred_Room>C105</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>BIL202 - İNTERNET PROGRAMCILIĞI -II</Subject>
+	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
+	<Preferred_Room>C101</Preferred_Room>
+	<Preferred_Room>C102</Preferred_Room>
+	<Preferred_Room>C104</Preferred_Room>
+	<Preferred_Room>C105</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>BIL204 - NESNE TABANLI PROGRAMLAMA II</Subject>
+	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
+	<Preferred_Room>C101</Preferred_Room>
+	<Preferred_Room>C102</Preferred_Room>
+	<Preferred_Room>C104</Preferred_Room>
+	<Preferred_Room>C105</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>BIL206 - SİSTEM ANALİZİ VE TASARIMI</Subject>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>Laboratuar</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>BIL208 - WEB PROJESİ YÖNETİMİ </Subject>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>Laboratuar</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>BIL210 - SUNUCU İŞLETİM SİSTEMİ</Subject>
+	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
+	<Preferred_Room>C101</Preferred_Room>
+	<Preferred_Room>C102</Preferred_Room>
+	<Preferred_Room>C104</Preferred_Room>
+	<Preferred_Room>C105</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>BIL212 - MESLEKİ YABANCI DİL-II</Subject>
+	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
+	<Preferred_Room>C101</Preferred_Room>
+	<Preferred_Room>C102</Preferred_Room>
+	<Preferred_Room>C104</Preferred_Room>
+	<Preferred_Room>C105</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>BIL214 - İÇERİK YÖNETİM SİSTEMİ</Subject>
+	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
+	<Preferred_Room>C101</Preferred_Room>
+	<Preferred_Room>C102</Preferred_Room>
+	<Preferred_Room>C104</Preferred_Room>
+	<Preferred_Room>C105</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>BIL216 - YAZILIM MİMARİLERİ</Subject>
+	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
+	<Preferred_Room>C101</Preferred_Room>
+	<Preferred_Room>C102</Preferred_Room>
+	<Preferred_Room>C104</Preferred_Room>
+	<Preferred_Room>C105</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>1</Activity_Id>
+	<Room>C101</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>2</Activity_Id>
+	<Room>C104</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>3</Activity_Id>
+	<Room>C102</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>4</Activity_Id>
+	<Room>C104</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>5</Activity_Id>
+	<Room>C101</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>7</Activity_Id>
+	<Room>Laboratuar</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>8</Activity_Id>
+	<Room>C104</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>9</Activity_Id>
+	<Room>C102</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>10</Activity_Id>
+	<Room>C101</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>11</Activity_Id>
+	<Room>C105</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>12</Activity_Id>
+	<Room>C104</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>13</Activity_Id>
+	<Room>C101</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>14</Activity_Id>
+	<Room>C104</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>15</Activity_Id>
+	<Room>C102</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>16</Activity_Id>
+	<Room>C104</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>17</Activity_Id>
+	<Room>C104</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>18</Activity_Id>
+	<Room>C105</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>19</Activity_Id>
+	<Room>Laboratuar</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>20</Activity_Id>
+	<Room>Laboratuar</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>21</Activity_Id>
+	<Room>C104</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>22</Activity_Id>
+	<Room>C102</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>23</Activity_Id>
+	<Room>C102</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>24</Activity_Id>
+	<Room>C104</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>25</Activity_Id>
+	<Room>C102</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>26</Activity_Id>
+	<Room>C104</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>27</Activity_Id>
+	<Room>C102</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>28</Activity_Id>
+	<Room>C101</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>29</Activity_Id>
+	<Room>UZEM</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+</Space_Constraints_List>
+
+</fet>

@@ -1,0 +1,9 @@
+﻿Soft conflicts of 2016-2017_Bahar_Bilgisayar_Programciligi_Final_Sinav_Takvimi.fet
+Generated with FET 5.30.2 on 5/4/17 5:47 PM
+
+Total soft conflicts: 0
+
+Soft conflicts list (in decreasing order):
+
+
+End of file.

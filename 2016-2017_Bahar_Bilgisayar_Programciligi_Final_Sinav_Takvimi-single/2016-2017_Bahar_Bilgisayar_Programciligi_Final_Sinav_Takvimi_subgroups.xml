@@ -1,0 +1,2063 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Students_Timetable>
+  <Subgroup name="I-A">
+   <Day name="22.05.2017 Pazartesi">
+    <Hour name="09:00">
+      <Teacher name="Öğr.Gör. Aslıhan BABUR"></Teacher><Subject name="BIL106 - GRAFİK VE ANİMASYON-II"></Subject><Room name="Laboratuar"></Room>
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="Öğr.Gör. Aslıhan BABUR"></Teacher><Subject name="BIL104 - GÖRSEL PROGRAMLAMA-II"></Subject><Room name="C104"></Room>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="23.05.2017 Salı">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="24.05.2017 Çarşamba">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="25.05.2017 Perşembe">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="26.05.2017 Cuma">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="27.05.2017 Cumartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="28.05.2017 Pazar">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="29.05.2017 Pazartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+      <Teacher name="UZEM"></Teacher><Subject name="UZEM - ORTAK DERSLER"></Subject><Room name="UZEM"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="30.05.2017 Salı">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="31.05.2017 Çarşamba">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+      <Teacher name="Öğr.Gör. Sabri Serkan TAN"></Teacher><Subject name="BIL102 - MATEMATİK"></Subject><Room name="C101"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="Öğr.Gör. Aslıhan BABUR"></Teacher><Subject name="BIL110 - BİLGİSAYAR DONANIMI"></Subject><Room name="C105"></Room>
+    </Hour>
+   </Day>
+   <Day name="01.06.2017 Perşembe">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="Öğr.Gör. Sabri Serkan TAN"></Teacher><Subject name="BIL112 - İLETİŞİM"></Subject><Room name="C101"></Room>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="02.06.2017 Cuma">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="Öğr.Gör. Sabri Serkan TAN"></Teacher><Subject name="BIL108 - VERİ TABANI-I"></Subject><Room name="C104"></Room>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="I-B">
+   <Day name="22.05.2017 Pazartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="Öğr.Gör. Sabri Serkan TAN"></Teacher><Subject name="BIL104 - GÖRSEL PROGRAMLAMA-II"></Subject><Room name="C101"></Room>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="23.05.2017 Salı">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="24.05.2017 Çarşamba">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="25.05.2017 Perşembe">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="26.05.2017 Cuma">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="27.05.2017 Cumartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="28.05.2017 Pazar">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="29.05.2017 Pazartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="30.05.2017 Salı">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="31.05.2017 Çarşamba">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+      <Teacher name="Öğr.Gör. Aslıhan BABUR"></Teacher><Subject name="BIL102 - MATEMATİK"></Subject><Room name="C104"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="Öğr.Gör. Sabri Serkan TAN"></Teacher><Subject name="BIL110 - BİLGİSAYAR DONANIMI"></Subject><Room name="C104"></Room>
+    </Hour>
+   </Day>
+   <Day name="01.06.2017 Perşembe">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="Öğr. Gör. Şenol TOPRAK"></Teacher><Subject name="BIL112 - İLETİŞİM"></Subject><Room name="C104"></Room>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="02.06.2017 Cuma">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="Öğr.Gör. Aslıhan BABUR"></Teacher><Subject name="BIL108 - VERİ TABANI-I"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="I-C">
+   <Day name="22.05.2017 Pazartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="23.05.2017 Salı">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="24.05.2017 Çarşamba">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="25.05.2017 Perşembe">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="26.05.2017 Cuma">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="27.05.2017 Cumartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="28.05.2017 Pazar">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="29.05.2017 Pazartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="30.05.2017 Salı">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="31.05.2017 Çarşamba">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="BIL102 - MATEMATİK"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="01.06.2017 Perşembe">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="02.06.2017 Cuma">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="BIL108 - VERİ TABANI-I"></Subject><Room name="C101"></Room>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="I-D">
+   <Day name="22.05.2017 Pazartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="23.05.2017 Salı">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="24.05.2017 Çarşamba">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="25.05.2017 Perşembe">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="26.05.2017 Cuma">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="27.05.2017 Cumartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="28.05.2017 Pazar">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="29.05.2017 Pazartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="30.05.2017 Salı">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="31.05.2017 Çarşamba">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="01.06.2017 Perşembe">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="02.06.2017 Cuma">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="II-A">
+   <Day name="22.05.2017 Pazartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="Öğr.Gör. Aslıhan BABUR"></Teacher><Subject name="BIL212 - MESLEKİ YABANCI DİL-II"></Subject><Room name="C102"></Room>
+    </Hour>
+   </Day>
+   <Day name="23.05.2017 Salı">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="24.05.2017 Çarşamba">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="25.05.2017 Perşembe">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="26.05.2017 Cuma">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="27.05.2017 Cumartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="28.05.2017 Pazar">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="29.05.2017 Pazartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="BIL214 - İÇERİK YÖNETİM SİSTEMİ"></Subject><Room name="C102"></Room>
+    </Hour>
+   </Day>
+   <Day name="30.05.2017 Salı">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="Öğr.Gör. Sabri Serkan TAN"></Teacher><Subject name="BIL204 - NESNE TABANLI PROGRAMLAMA II"></Subject><Room name="C104"></Room>
+    </Hour>
+   </Day>
+   <Day name="31.05.2017 Çarşamba">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="Öğr.Gör. Aslıhan BABUR"></Teacher><Subject name="BIL216 - YAZILIM MİMARİLERİ"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="01.06.2017 Perşembe">
+    <Hour name="09:00">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="BIL208 - WEB PROJESİ YÖNETİMİ "></Subject><Room name="Laboratuar"></Room>
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="BIL210 - SUNUCU İŞLETİM SİSTEMİ"></Subject><Room name="C104"></Room>
+    </Hour>
+   </Day>
+   <Day name="02.06.2017 Cuma">
+    <Hour name="09:00">
+      <Teacher name="Öğr.Gör. Sabri Serkan TAN"></Teacher><Subject name="BIL206 - SİSTEM ANALİZİ VE TASARIMI"></Subject><Room name="Laboratuar"></Room>
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="BIL202 - İNTERNET PROGRAMCILIĞI -II"></Subject><Room name="C102"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="II-B">
+   <Day name="22.05.2017 Pazartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="Öğr. Gör. Şenol TOPRAK"></Teacher><Subject name="BIL212 - MESLEKİ YABANCI DİL-II"></Subject><Room name="C104"></Room>
+    </Hour>
+   </Day>
+   <Day name="23.05.2017 Salı">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="24.05.2017 Çarşamba">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="25.05.2017 Perşembe">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="26.05.2017 Cuma">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="27.05.2017 Cumartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="28.05.2017 Pazar">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="29.05.2017 Pazartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="Öğr.Gör. Aslıhan BABUR"></Teacher><Subject name="BIL214 - İÇERİK YÖNETİM SİSTEMİ"></Subject><Room name="C104"></Room>
+    </Hour>
+   </Day>
+   <Day name="30.05.2017 Salı">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="Öğr.Gör. Aslıhan BABUR"></Teacher><Subject name="BIL204 - NESNE TABANLI PROGRAMLAMA II"></Subject><Room name="C105"></Room>
+    </Hour>
+   </Day>
+   <Day name="31.05.2017 Çarşamba">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="Öğr.Gör. Sabri Serkan TAN"></Teacher><Subject name="BIL216 - YAZILIM MİMARİLERİ"></Subject><Room name="C101"></Room>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="01.06.2017 Perşembe">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="Öğr.Gör. Aslıhan BABUR"></Teacher><Subject name="BIL210 - SUNUCU İŞLETİM SİSTEMİ"></Subject><Room name="C102"></Room>
+    </Hour>
+   </Day>
+   <Day name="02.06.2017 Cuma">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="Öğr.Gör. Sabri Serkan TAN"></Teacher><Subject name="BIL202 - İNTERNET PROGRAMCILIĞI -II"></Subject><Room name="C104"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="II-C">
+   <Day name="22.05.2017 Pazartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="23.05.2017 Salı">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="24.05.2017 Çarşamba">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="25.05.2017 Perşembe">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="26.05.2017 Cuma">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="27.05.2017 Cumartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="28.05.2017 Pazar">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="29.05.2017 Pazartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="30.05.2017 Salı">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="31.05.2017 Çarşamba">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="01.06.2017 Perşembe">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="02.06.2017 Cuma">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="II-D">
+   <Day name="22.05.2017 Pazartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="23.05.2017 Salı">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="24.05.2017 Çarşamba">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="25.05.2017 Perşembe">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="26.05.2017 Cuma">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="27.05.2017 Cumartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="28.05.2017 Pazar">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="29.05.2017 Pazartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="30.05.2017 Salı">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="31.05.2017 Çarşamba">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="01.06.2017 Perşembe">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="02.06.2017 Cuma">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="Bil. Prog. I. Sınıf (METEB) Automatic Subgroup">
+   <Day name="22.05.2017 Pazartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="23.05.2017 Salı">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="24.05.2017 Çarşamba">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="25.05.2017 Perşembe">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="26.05.2017 Cuma">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="27.05.2017 Cumartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="28.05.2017 Pazar">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="29.05.2017 Pazartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="30.05.2017 Salı">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="31.05.2017 Çarşamba">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="01.06.2017 Perşembe">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="02.06.2017 Cuma">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="Bil. Prog. II. Sınıf (METEB) Automatic Subgroup">
+   <Day name="22.05.2017 Pazartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="23.05.2017 Salı">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="24.05.2017 Çarşamba">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="25.05.2017 Perşembe">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="26.05.2017 Cuma">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="27.05.2017 Cumartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="28.05.2017 Pazar">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="29.05.2017 Pazartesi">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="30.05.2017 Salı">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="31.05.2017 Çarşamba">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="01.06.2017 Perşembe">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+   <Day name="02.06.2017 Cuma">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:30">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+</Students_Timetable>
