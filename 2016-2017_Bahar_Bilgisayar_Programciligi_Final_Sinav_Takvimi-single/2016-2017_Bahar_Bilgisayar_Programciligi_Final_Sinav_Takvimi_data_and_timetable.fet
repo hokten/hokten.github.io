@@ -130,7 +130,7 @@
 	</Qualified_Subjects>
 </Teacher>
 <Teacher>
-	<Name>Öğr.Gör. Aslıhan BABUR</Name>
+	<Name>Öğr.Gör. Dr.  Aslıhan İSTANBULLU</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -230,7 +230,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Öğr.Gör. Aslıhan BABUR</Teacher>
+	<Teacher>Öğr.Gör. Dr.  Aslıhan İSTANBULLU</Teacher>
 	<Subject>BIL102 - MATEMATİK</Subject>
 	<Students>I-B</Students>
 	<Duration>1</Duration>
@@ -254,7 +254,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Öğr.Gör. Aslıhan BABUR</Teacher>
+	<Teacher>Öğr.Gör. Dr.  Aslıhan İSTANBULLU</Teacher>
 	<Subject>BIL104 - GÖRSEL PROGRAMLAMA-II</Subject>
 	<Students>I-A</Students>
 	<Duration>1</Duration>
@@ -278,7 +278,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Öğr.Gör. Aslıhan BABUR</Teacher>
+	<Teacher>Öğr.Gör. Dr.  Aslıhan İSTANBULLU</Teacher>
 	<Subject>BIL106 - GRAFİK VE ANİMASYON-II</Subject>
 	<Students>I-A</Students>
 	<Duration>1</Duration>
@@ -301,7 +301,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Öğr.Gör. Aslıhan BABUR</Teacher>
+	<Teacher>Öğr.Gör. Dr.  Aslıhan İSTANBULLU</Teacher>
 	<Subject>BIL108 - VERİ TABANI-I</Subject>
 	<Students>I-B</Students>
 	<Duration>1</Duration>
@@ -325,7 +325,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Öğr.Gör. Aslıhan BABUR</Teacher>
+	<Teacher>Öğr.Gör. Dr.  Aslıhan İSTANBULLU</Teacher>
 	<Subject>BIL110 - BİLGİSAYAR DONANIMI</Subject>
 	<Students>I-A</Students>
 	<Duration>1</Duration>
@@ -409,7 +409,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Öğr.Gör. Aslıhan BABUR</Teacher>
+	<Teacher>Öğr.Gör. Dr.  Aslıhan İSTANBULLU</Teacher>
 	<Subject>BIL204 - NESNE TABANLI PROGRAMLAMA II</Subject>
 	<Students>II-B</Students>
 	<Duration>1</Duration>
@@ -455,7 +455,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Öğr.Gör. Aslıhan BABUR</Teacher>
+	<Teacher>Öğr.Gör. Dr.  Aslıhan İSTANBULLU</Teacher>
 	<Subject>BIL210 - SUNUCU İŞLETİM SİSTEMİ</Subject>
 	<Students>II-B</Students>
 	<Duration>1</Duration>
@@ -467,7 +467,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Öğr.Gör. Aslıhan BABUR</Teacher>
+	<Teacher>Öğr.Gör. Dr.  Aslıhan İSTANBULLU</Teacher>
 	<Subject>BIL212 - MESLEKİ YABANCI DİL-II</Subject>
 	<Students>II-A</Students>
 	<Duration>1</Duration>
@@ -503,7 +503,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Öğr.Gör. Aslıhan BABUR</Teacher>
+	<Teacher>Öğr.Gör. Dr.  Aslıhan İSTANBULLU</Teacher>
 	<Subject>BIL214 - İÇERİK YÖNETİM SİSTEMİ</Subject>
 	<Students>II-B</Students>
 	<Duration>1</Duration>
@@ -515,7 +515,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Öğr.Gör. Aslıhan BABUR</Teacher>
+	<Teacher>Öğr.Gör. Dr.  Aslıhan İSTANBULLU</Teacher>
 	<Subject>BIL216 - YAZILIM MİMARİLERİ</Subject>
 	<Students>II-A</Students>
 	<Duration>1</Duration>
@@ -1299,8 +1299,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>8</Activity_Id>
-	<Preferred_Day>02.06.2017 Cuma</Preferred_Day>
-	<Preferred_Hour>12:00</Preferred_Hour>
+	<Preferred_Day>31.05.2017 Çarşamba</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -1308,8 +1308,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>9</Activity_Id>
-	<Preferred_Day>02.06.2017 Cuma</Preferred_Day>
-	<Preferred_Hour>12:00</Preferred_Hour>
+	<Preferred_Day>31.05.2017 Çarşamba</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -1317,8 +1317,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>10</Activity_Id>
-	<Preferred_Day>02.06.2017 Cuma</Preferred_Day>
-	<Preferred_Hour>12:00</Preferred_Hour>
+	<Preferred_Day>31.05.2017 Çarşamba</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -1326,8 +1326,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>11</Activity_Id>
-	<Preferred_Day>31.05.2017 Çarşamba</Preferred_Day>
-	<Preferred_Hour>15:00</Preferred_Hour>
+	<Preferred_Day>01.06.2017 Perşembe</Preferred_Day>
+	<Preferred_Hour>12:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -1335,8 +1335,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>12</Activity_Id>
-	<Preferred_Day>31.05.2017 Çarşamba</Preferred_Day>
-	<Preferred_Hour>15:00</Preferred_Hour>
+	<Preferred_Day>01.06.2017 Perşembe</Preferred_Day>
+	<Preferred_Hour>12:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -1344,7 +1344,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>13</Activity_Id>
-	<Preferred_Day>01.06.2017 Perşembe</Preferred_Day>
+	<Preferred_Day>30.05.2017 Salı</Preferred_Day>
 	<Preferred_Hour>12:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -1353,7 +1353,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>14</Activity_Id>
-	<Preferred_Day>01.06.2017 Perşembe</Preferred_Day>
+	<Preferred_Day>30.05.2017 Salı</Preferred_Day>
 	<Preferred_Hour>12:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -1362,7 +1362,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>15</Activity_Id>
-	<Preferred_Day>02.06.2017 Cuma</Preferred_Day>
+	<Preferred_Day>22.05.2017 Pazartesi</Preferred_Day>
 	<Preferred_Hour>15:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -1371,7 +1371,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>16</Activity_Id>
-	<Preferred_Day>02.06.2017 Cuma</Preferred_Day>
+	<Preferred_Day>22.05.2017 Pazartesi</Preferred_Day>
 	<Preferred_Hour>15:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -1380,7 +1380,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>17</Activity_Id>
-	<Preferred_Day>30.05.2017 Salı</Preferred_Day>
+	<Preferred_Day>01.06.2017 Perşembe</Preferred_Day>
 	<Preferred_Hour>15:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -1389,7 +1389,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>18</Activity_Id>
-	<Preferred_Day>30.05.2017 Salı</Preferred_Day>
+	<Preferred_Day>01.06.2017 Perşembe</Preferred_Day>
 	<Preferred_Hour>15:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -1398,7 +1398,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>21</Activity_Id>
-	<Preferred_Day>01.06.2017 Perşembe</Preferred_Day>
+	<Preferred_Day>02.06.2017 Cuma</Preferred_Day>
 	<Preferred_Hour>15:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -1407,7 +1407,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>22</Activity_Id>
-	<Preferred_Day>01.06.2017 Perşembe</Preferred_Day>
+	<Preferred_Day>02.06.2017 Cuma</Preferred_Day>
 	<Preferred_Hour>15:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -1416,7 +1416,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>23</Activity_Id>
-	<Preferred_Day>22.05.2017 Pazartesi</Preferred_Day>
+	<Preferred_Day>29.05.2017 Pazartesi</Preferred_Day>
 	<Preferred_Hour>15:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -1425,7 +1425,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>24</Activity_Id>
-	<Preferred_Day>22.05.2017 Pazartesi</Preferred_Day>
+	<Preferred_Day>29.05.2017 Pazartesi</Preferred_Day>
 	<Preferred_Hour>15:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -1434,7 +1434,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>25</Activity_Id>
-	<Preferred_Day>29.05.2017 Pazartesi</Preferred_Day>
+	<Preferred_Day>30.05.2017 Salı</Preferred_Day>
 	<Preferred_Hour>15:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -1443,7 +1443,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>26</Activity_Id>
-	<Preferred_Day>29.05.2017 Pazartesi</Preferred_Day>
+	<Preferred_Day>30.05.2017 Salı</Preferred_Day>
 	<Preferred_Hour>15:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -2306,7 +2306,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>1</Activity_Id>
-	<Room>C101</Room>
+	<Room>C102</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2322,7 +2322,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>3</Activity_Id>
-	<Room>C102</Room>
+	<Room>C105</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2330,7 +2330,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>4</Activity_Id>
-	<Room>C104</Room>
+	<Room>C101</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2338,7 +2338,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>5</Activity_Id>
-	<Room>C101</Room>
+	<Room>C104</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2354,14 +2354,6 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>8</Activity_Id>
-	<Room>C104</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>9</Activity_Id>
 	<Room>C102</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -2369,8 +2361,16 @@
 </ConstraintActivityPreferredRoom>
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>9</Activity_Id>
+	<Room>C104</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>10</Activity_Id>
-	<Room>C101</Room>
+	<Room>C105</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2378,7 +2378,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>11</Activity_Id>
-	<Room>C105</Room>
+	<Room>C101</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2394,7 +2394,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>13</Activity_Id>
-	<Room>C101</Room>
+	<Room>C104</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2402,7 +2402,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>14</Activity_Id>
-	<Room>C104</Room>
+	<Room>C101</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2410,7 +2410,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>15</Activity_Id>
-	<Room>C102</Room>
+	<Room>C105</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2418,7 +2418,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>16</Activity_Id>
-	<Room>C104</Room>
+	<Room>C102</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2426,7 +2426,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>17</Activity_Id>
-	<Room>C104</Room>
+	<Room>C102</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2458,7 +2458,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>21</Activity_Id>
-	<Room>C104</Room>
+	<Room>C105</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2482,7 +2482,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>24</Activity_Id>
-	<Room>C104</Room>
+	<Room>C105</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2490,7 +2490,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>25</Activity_Id>
-	<Room>C102</Room>
+	<Room>C105</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2506,7 +2506,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>27</Activity_Id>
-	<Room>C102</Room>
+	<Room>C101</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2514,7 +2514,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>28</Activity_Id>
-	<Room>C101</Room>
+	<Room>C104</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
