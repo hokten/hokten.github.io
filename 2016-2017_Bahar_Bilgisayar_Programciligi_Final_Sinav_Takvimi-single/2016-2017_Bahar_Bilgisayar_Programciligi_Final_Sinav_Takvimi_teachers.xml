@@ -15,7 +15,7 @@
      
     </Hour>
     <Hour name="15:00">
-     <Subject name="BIL202 - İNTERNET PROGRAMCILIĞI -II"></Subject><Students name="II-B"></Students><Room name="C102"></Room>
+     
     </Hour>
    </Day>
    <Day name="23.05.2017 Salı">
@@ -145,7 +145,7 @@
      
     </Hour>
     <Hour name="12:00">
-     <Subject name="BIL112 - İLETİŞİM"></Subject><Students name="I-A"></Students><Room name="C104"></Room>
+     <Subject name="BIL112 - İLETİŞİM"></Subject><Students name="I-A"></Students><Room name="C101"></Room>
     </Hour>
     <Hour name="13:30">
      
@@ -162,13 +162,13 @@
      <Subject name="BIL102 - MATEMATİK"></Subject><Students name="I-A"></Students><Room name="C102"></Room>
     </Hour>
     <Hour name="12:00">
-     <Subject name="BIL216 - YAZILIM MİMARİLERİ"></Subject><Students name="II-B"></Students><Room name="C104"></Room>
+     <Subject name="BIL216 - YAZILIM MİMARİLERİ"></Subject><Students name="II-B"></Students><Room name="C101"></Room>
     </Hour>
     <Hour name="13:30">
      
     </Hour>
     <Hour name="15:00">
-     <Subject name="BIL108 - VERİ TABANI-I"></Subject><Students name="I-A"></Students><Room name="C102"></Room>
+     <Subject name="BIL110 - BİLGİSAYAR DONANIMI"></Subject><Students name="I-B"></Students><Room name="C105"></Room>
     </Hour>
    </Day>
    <Day name="01.06.2017 Perşembe">
@@ -179,7 +179,7 @@
      
     </Hour>
     <Hour name="12:00">
-     <Subject name="BIL110 - BİLGİSAYAR DONANIMI"></Subject><Students name="I-B"></Students><Room name="C104"></Room>
+     <Subject name="BIL108 - VERİ TABANI-I"></Subject><Students name="I-A"></Students><Room name="C101"></Room>
     </Hour>
     <Hour name="13:30">
      
@@ -202,7 +202,7 @@
      
     </Hour>
     <Hour name="15:00">
-     
+     <Subject name="BIL202 - İNTERNET PROGRAMCILIĞI -II"></Subject><Students name="II-B"></Students><Room name="C104"></Room>
     </Hour>
    </Day>
   </Teacher>
@@ -221,7 +221,7 @@
      
     </Hour>
     <Hour name="15:00">
-     
+     <Subject name="BIL212 - MESLEKİ YABANCI DİL-II"></Subject><Students name="II-A"></Students><Room name="C104"></Room>
     </Hour>
    </Day>
    <Day name="23.05.2017 Salı">
@@ -340,7 +340,7 @@
      
     </Hour>
     <Hour name="15:00">
-     <Subject name="BIL212 - MESLEKİ YABANCI DİL-II"></Subject><Students name="II-A"></Students><Room name="C102"></Room>
+     <Subject name="BIL214 - İÇERİK YÖNETİM SİSTEMİ"></Subject><Students name="II-B"></Students><Room name="C104"></Room>
     </Hour>
    </Day>
    <Day name="30.05.2017 Salı">
@@ -357,7 +357,7 @@
      
     </Hour>
     <Hour name="15:00">
-     <Subject name="BIL214 - İÇERİK YÖNETİM SİSTEMİ"></Subject><Students name="II-B"></Students><Room name="C104"></Room>
+     <Subject name="BIL210 - SUNUCU İŞLETİM SİSTEMİ"></Subject><Students name="II-B"></Students><Room name="C104"></Room>
     </Hour>
    </Day>
    <Day name="31.05.2017 Çarşamba">
@@ -365,16 +365,16 @@
      
     </Hour>
     <Hour name="10:30">
-     <Subject name="BIL102 - MATEMATİK"></Subject><Students name="I-B"></Students><Room name="C104"></Room>
+     <Subject name="BIL102 - MATEMATİK"></Subject><Students name="I-B"></Students><Room name="C105"></Room>
     </Hour>
     <Hour name="12:00">
-     <Subject name="BIL216 - YAZILIM MİMARİLERİ"></Subject><Students name="II-A"></Students><Room name="C101"></Room>
+     <Subject name="BIL216 - YAZILIM MİMARİLERİ"></Subject><Students name="II-A"></Students><Room name="C104"></Room>
     </Hour>
     <Hour name="13:30">
      
     </Hour>
     <Hour name="15:00">
-     <Subject name="BIL108 - VERİ TABANI-I"></Subject><Students name="I-B"></Students><Room name="C104"></Room>
+     <Subject name="BIL110 - BİLGİSAYAR DONANIMI"></Subject><Students name="I-A"></Students><Room name="C102"></Room>
     </Hour>
    </Day>
    <Day name="01.06.2017 Perşembe">
@@ -385,7 +385,7 @@
      
     </Hour>
     <Hour name="12:00">
-     <Subject name="BIL110 - BİLGİSAYAR DONANIMI"></Subject><Students name="I-A"></Students><Room name="C101"></Room>
+     <Subject name="BIL108 - VERİ TABANI-I"></Subject><Students name="I-B"></Students><Room name="C102"></Room>
     </Hour>
     <Hour name="13:30">
      
@@ -408,7 +408,7 @@
      
     </Hour>
     <Hour name="15:00">
-     <Subject name="BIL210 - SUNUCU İŞLETİM SİSTEMİ"></Subject><Students name="II-B"></Students><Room name="C102"></Room>
+     
     </Hour>
    </Day>
   </Teacher>
@@ -427,7 +427,7 @@
      
     </Hour>
     <Hour name="15:00">
-     <Subject name="BIL202 - İNTERNET PROGRAMCILIĞI -II"></Subject><Students name="II-A"></Students><Room name="C105"></Room>
+     
     </Hour>
    </Day>
    <Day name="23.05.2017 Salı">
@@ -546,7 +546,7 @@
      
     </Hour>
     <Hour name="15:00">
-     
+     <Subject name="BIL214 - İÇERİK YÖNETİM SİSTEMİ"></Subject><Students name="II-A"></Students><Room name="C105"></Room>
     </Hour>
    </Day>
    <Day name="30.05.2017 Salı">
@@ -563,7 +563,7 @@
      
     </Hour>
     <Hour name="15:00">
-     <Subject name="BIL214 - İÇERİK YÖNETİM SİSTEMİ"></Subject><Students name="II-A"></Students><Room name="C105"></Room>
+     <Subject name="BIL210 - SUNUCU İŞLETİM SİSTEMİ"></Subject><Students name="II-A"></Students><Room name="C102"></Room>
     </Hour>
    </Day>
    <Day name="31.05.2017 Çarşamba">
@@ -571,7 +571,7 @@
      
     </Hour>
     <Hour name="10:30">
-     <Subject name="BIL102 - MATEMATİK"></Subject><Students name="I-C"></Students><Room name="C105"></Room>
+     <Subject name="BIL102 - MATEMATİK"></Subject><Students name="I-C"></Students><Room name="C104"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -580,7 +580,7 @@
      
     </Hour>
     <Hour name="15:00">
-     <Subject name="BIL108 - VERİ TABANI-I"></Subject><Students name="I-C"></Students><Room name="C105"></Room>
+     
     </Hour>
    </Day>
    <Day name="01.06.2017 Perşembe">
@@ -591,7 +591,7 @@
      
     </Hour>
     <Hour name="12:00">
-     
+     <Subject name="BIL108 - VERİ TABANI-I"></Subject><Students name="I-C"></Students><Room name="C104"></Room>
     </Hour>
     <Hour name="13:30">
      
@@ -614,7 +614,7 @@
      
     </Hour>
     <Hour name="15:00">
-     <Subject name="BIL210 - SUNUCU İŞLETİM SİSTEMİ"></Subject><Students name="II-A"></Students><Room name="C105"></Room>
+     <Subject name="BIL202 - İNTERNET PROGRAMCILIĞI -II"></Subject><Students name="II-A"></Students><Room name="C105"></Room>
     </Hour>
    </Day>
   </Teacher>
@@ -839,7 +839,7 @@
      
     </Hour>
     <Hour name="15:00">
-     
+     <Subject name="BIL212 - MESLEKİ YABANCI DİL-II"></Subject><Students name="II-B"></Students><Room name="C102"></Room>
     </Hour>
    </Day>
    <Day name="23.05.2017 Salı">
@@ -958,7 +958,7 @@
      
     </Hour>
     <Hour name="15:00">
-     <Subject name="BIL212 - MESLEKİ YABANCI DİL-II"></Subject><Students name="II-B"></Students><Room name="C105"></Room>
+     
     </Hour>
    </Day>
    <Day name="30.05.2017 Salı">
@@ -969,7 +969,7 @@
      
     </Hour>
     <Hour name="12:00">
-     <Subject name="BIL112 - İLETİŞİM"></Subject><Students name="I-B"></Students><Room name="C101"></Room>
+     <Subject name="BIL112 - İLETİŞİM"></Subject><Students name="I-B"></Students><Room name="C102"></Room>
     </Hour>
     <Hour name="13:30">
      

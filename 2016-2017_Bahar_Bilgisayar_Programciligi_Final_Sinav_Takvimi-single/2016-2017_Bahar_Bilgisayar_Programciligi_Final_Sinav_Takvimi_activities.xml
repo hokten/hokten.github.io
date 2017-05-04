@@ -10,13 +10,13 @@
 	<Id>2</Id>
 	<Day>31.05.2017 Çarşamba</Day>
 	<Hour>10:30</Hour>
-	<Room>C104</Room>
+	<Room>C105</Room>
 </Activity>
 <Activity>
 	<Id>3</Id>
 	<Day>31.05.2017 Çarşamba</Day>
 	<Hour>10:30</Hour>
-	<Room>C105</Room>
+	<Room>C104</Room>
 </Activity>
 <Activity>
 	<Id>4</Id>
@@ -38,57 +38,57 @@
 </Activity>
 <Activity>
 	<Id>8</Id>
-	<Day>31.05.2017 Çarşamba</Day>
-	<Hour>15:00</Hour>
-	<Room>C102</Room>
-</Activity>
-<Activity>
-	<Id>9</Id>
-	<Day>31.05.2017 Çarşamba</Day>
-	<Hour>15:00</Hour>
-	<Room>C104</Room>
-</Activity>
-<Activity>
-	<Id>10</Id>
-	<Day>31.05.2017 Çarşamba</Day>
-	<Hour>15:00</Hour>
-	<Room>C105</Room>
-</Activity>
-<Activity>
-	<Id>11</Id>
 	<Day>01.06.2017 Perşembe</Day>
 	<Hour>12:00</Hour>
 	<Room>C101</Room>
 </Activity>
 <Activity>
-	<Id>12</Id>
+	<Id>9</Id>
+	<Day>01.06.2017 Perşembe</Day>
+	<Hour>12:00</Hour>
+	<Room>C102</Room>
+</Activity>
+<Activity>
+	<Id>10</Id>
 	<Day>01.06.2017 Perşembe</Day>
 	<Hour>12:00</Hour>
 	<Room>C104</Room>
+</Activity>
+<Activity>
+	<Id>11</Id>
+	<Day>31.05.2017 Çarşamba</Day>
+	<Hour>15:00</Hour>
+	<Room>C102</Room>
+</Activity>
+<Activity>
+	<Id>12</Id>
+	<Day>31.05.2017 Çarşamba</Day>
+	<Hour>15:00</Hour>
+	<Room>C105</Room>
 </Activity>
 <Activity>
 	<Id>13</Id>
 	<Day>30.05.2017 Salı</Day>
 	<Hour>12:00</Hour>
-	<Room>C104</Room>
+	<Room>C101</Room>
 </Activity>
 <Activity>
 	<Id>14</Id>
 	<Day>30.05.2017 Salı</Day>
 	<Hour>12:00</Hour>
-	<Room>C101</Room>
+	<Room>C102</Room>
 </Activity>
 <Activity>
 	<Id>15</Id>
-	<Day>22.05.2017 Pazartesi</Day>
+	<Day>02.06.2017 Cuma</Day>
 	<Hour>15:00</Hour>
 	<Room>C105</Room>
 </Activity>
 <Activity>
 	<Id>16</Id>
-	<Day>22.05.2017 Pazartesi</Day>
+	<Day>02.06.2017 Cuma</Day>
 	<Hour>15:00</Hour>
-	<Room>C102</Room>
+	<Room>C104</Room>
 </Activity>
 <Activity>
 	<Id>17</Id>
@@ -116,37 +116,37 @@
 </Activity>
 <Activity>
 	<Id>21</Id>
-	<Day>02.06.2017 Cuma</Day>
+	<Day>30.05.2017 Salı</Day>
 	<Hour>15:00</Hour>
-	<Room>C105</Room>
+	<Room>C102</Room>
 </Activity>
 <Activity>
 	<Id>22</Id>
-	<Day>02.06.2017 Cuma</Day>
+	<Day>30.05.2017 Salı</Day>
 	<Hour>15:00</Hour>
-	<Room>C102</Room>
+	<Room>C104</Room>
 </Activity>
 <Activity>
 	<Id>23</Id>
-	<Day>29.05.2017 Pazartesi</Day>
+	<Day>22.05.2017 Pazartesi</Day>
+	<Hour>15:00</Hour>
+	<Room>C104</Room>
+</Activity>
+<Activity>
+	<Id>24</Id>
+	<Day>22.05.2017 Pazartesi</Day>
 	<Hour>15:00</Hour>
 	<Room>C102</Room>
 </Activity>
 <Activity>
-	<Id>24</Id>
-	<Day>29.05.2017 Pazartesi</Day>
-	<Hour>15:00</Hour>
-	<Room>C105</Room>
-</Activity>
-<Activity>
 	<Id>25</Id>
-	<Day>30.05.2017 Salı</Day>
+	<Day>29.05.2017 Pazartesi</Day>
 	<Hour>15:00</Hour>
 	<Room>C105</Room>
 </Activity>
 <Activity>
 	<Id>26</Id>
-	<Day>30.05.2017 Salı</Day>
+	<Day>29.05.2017 Pazartesi</Day>
 	<Hour>15:00</Hour>
 	<Room>C104</Room>
 </Activity>
@@ -154,13 +154,13 @@
 	<Id>27</Id>
 	<Day>31.05.2017 Çarşamba</Day>
 	<Hour>12:00</Hour>
-	<Room>C101</Room>
+	<Room>C104</Room>
 </Activity>
 <Activity>
 	<Id>28</Id>
 	<Day>31.05.2017 Çarşamba</Day>
 	<Hour>12:00</Hour>
-	<Room>C104</Room>
+	<Room>C101</Room>
 </Activity>
 <Activity>
 	<Id>29</Id>
