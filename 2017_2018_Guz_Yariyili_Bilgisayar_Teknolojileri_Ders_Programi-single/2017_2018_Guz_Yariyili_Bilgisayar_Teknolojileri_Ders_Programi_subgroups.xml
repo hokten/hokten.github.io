@@ -1,0 +1,624 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Students_Timetable>
+  <Subgroup name="I. Sınıf I. Öğretim Automatic Subgroup">
+   <Day name="Pazartesi">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="BIL105 - GRAFİK VE ANİMASYON-I"></Subject><Room name="A302"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="BIL105 - GRAFİK VE ANİMASYON-I"></Subject><Room name="A302"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="BIL105 - GRAFİK VE ANİMASYON-I"></Subject><Room name="A302"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="BIL103 - GÖRSEL PROGRAMLAMA-I"></Subject><Room name="A302"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="BIL103 - GÖRSEL PROGRAMLAMA-I"></Subject><Room name="A302"></Room>
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Salı">
+    <Hour name="08:00">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="BIL111 - YAZILIM KURULUMU VE YÖNETİMİ"></Subject><Room name="A302"></Room>
+    </Hour>
+    <Hour name="09:00">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="BIL111 - YAZILIM KURULUMU VE YÖNETİMİ"></Subject><Room name="A302"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="BIL103 - GÖRSEL PROGRAMLAMA-I"></Subject><Room name="A302"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="BIL103 - GÖRSEL PROGRAMLAMA-I"></Subject><Room name="A302"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Çarşamba">
+    <Hour name="08:00">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="BIL101 - PROGRAMLAMA TEMELLERİ"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="09:00">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="BIL101 - PROGRAMLAMA TEMELLERİ"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="BIL101 - PROGRAMLAMA TEMELLERİ"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="BIL101 - PROGRAMLAMA TEMELLERİ"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Perşembe">
+    <Hour name="08:00">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="BIL107 - WEB TASARIMININ TEMELLERİ"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="09:00">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="BIL107 - WEB TASARIMININ TEMELLERİ"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="BIL107 - WEB TASARIMININ TEMELLERİ"></Subject><Room name="A302"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="BIL109 - WEB EDİTÖRÜ"></Subject><Room name="A302"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="BIL109 - WEB EDİTÖRÜ"></Subject><Room name="A302"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="BIL109 - WEB EDİTÖRÜ"></Subject><Room name="A302"></Room>
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Cuma">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="II. Sınıf I. Öğretim Automatic Subgroup">
+   <Day name="Pazartesi">
+    <Hour name="08:00">
+      <Teacher name="Öğr. Gör. Şenol TOPRAK"></Teacher><Subject name="BIL215 - İŞLETME"></Subject><Room name="A306"></Room>
+    </Hour>
+    <Hour name="09:00">
+      <Teacher name="Öğr. Gör. Şenol TOPRAK"></Teacher><Subject name="BIL215 - İŞLETME"></Subject><Room name="A306"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="Öğr. Gör. Şenol TOPRAK"></Teacher><Subject name="BIL219 - MESLEK ETİĞİ"></Subject><Room name="A306"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="Öğr. Gör. Şenol TOPRAK"></Teacher><Subject name="BIL219 - MESLEK ETİĞİ"></Subject><Room name="A306"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="BIL205 - VERİ TABANI-II"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="BIL205 - VERİ TABANI-II"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Salı">
+    <Hour name="08:00">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="BIL203 - NESNE TABANLI PROGRAMLAMA I"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="09:00">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="BIL203 - NESNE TABANLI PROGRAMLAMA I"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="BIL203 - NESNE TABANLI PROGRAMLAMA I"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="BIL203 - NESNE TABANLI PROGRAMLAMA I"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="BIL205 - VERİ TABANI-II"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="BIL205 - VERİ TABANI-II"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Çarşamba">
+    <Hour name="08:00">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="BIL207 - AÇIK KAYNAK İŞLETİM SİSTEMİ"></Subject><Room name="A302"></Room>
+    </Hour>
+    <Hour name="09:00">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="BIL207 - AÇIK KAYNAK İŞLETİM SİSTEMİ"></Subject><Room name="A302"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="BIL201 - İNTERNET PROGRAMCILIĞI -I"></Subject><Room name="A302"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="BIL201 - İNTERNET PROGRAMCILIĞI -I"></Subject><Room name="A302"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="BIL201 - İNTERNET PROGRAMCILIĞI -I"></Subject><Room name="A302"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="BIL201 - İNTERNET PROGRAMCILIĞI -I"></Subject><Room name="A302"></Room>
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Perşembe">
+    <Hour name="08:00">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="BIL211 - MESLEKİ YABANCI DİL-I"></Subject><Room name="A306"></Room>
+    </Hour>
+    <Hour name="09:00">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="BIL211 - MESLEKİ YABANCI DİL-I"></Subject><Room name="A306"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="BIL213 - ARAŞTIRMA YÖNTEM VE TEKNİKLERİ"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="BIL213 - ARAŞTIRMA YÖNTEM VE TEKNİKLERİ"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="BIL209 - AĞ TEMELLERİ"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="BIL209 - AĞ TEMELLERİ"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Cuma">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="II. Sınıf II. Öğretim Automatic Subgroup">
+   <Day name="Pazartesi">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="GBIL203 - NESNE TABANLI PROGRAMLAMA I"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="GBIL203 - NESNE TABANLI PROGRAMLAMA I"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="17:00">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="GBIL203 - NESNE TABANLI PROGRAMLAMA I"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="18:00">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="GBIL203 - NESNE TABANLI PROGRAMLAMA I"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="19:00">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="GBIL205 - VERİ TABANI-II"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="20:00">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="GBIL205 - VERİ TABANI-II"></Subject><Room name="A301"></Room>
+    </Hour>
+   </Day>
+   <Day name="Salı">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="GBIL205 - VERİ TABANI-II"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="GBIL205 - VERİ TABANI-II"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="17:00">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="GBIL201 - İNTERNET PROGRAMCILIĞI -I"></Subject><Room name="A302"></Room>
+    </Hour>
+    <Hour name="18:00">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="GBIL201 - İNTERNET PROGRAMCILIĞI -I"></Subject><Room name="A302"></Room>
+    </Hour>
+    <Hour name="19:00">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="GBIL201 - İNTERNET PROGRAMCILIĞI -I"></Subject><Room name="A302"></Room>
+    </Hour>
+    <Hour name="20:00">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="GBIL201 - İNTERNET PROGRAMCILIĞI -I"></Subject><Room name="A302"></Room>
+    </Hour>
+   </Day>
+   <Day name="Çarşamba">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="Doç. Dr. Hasan TANAK"></Teacher><Subject name="GBIL211 - MESLEKİ YABANCI DİL-I"></Subject><Room name="A306"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="Doç. Dr. Hasan TANAK"></Teacher><Subject name="GBIL211 - MESLEKİ YABANCI DİL-I"></Subject><Room name="A306"></Room>
+    </Hour>
+    <Hour name="17:00">
+      <Teacher name="Doç. Dr. Hasan TANAK"></Teacher><Subject name="GBIL213 - ARAŞTIRMA YÖNTEM VE TEKNİKLERİ"></Subject><Room name="A302"></Room>
+    </Hour>
+    <Hour name="18:00">
+      <Teacher name="Doç. Dr. Hasan TANAK"></Teacher><Subject name="GBIL213 - ARAŞTIRMA YÖNTEM VE TEKNİKLERİ"></Subject><Room name="A302"></Room>
+    </Hour>
+    <Hour name="19:00">
+      <Teacher name="Öğr. Gör. Şenol TOPRAK"></Teacher><Subject name="GBIL215 - İŞLETME"></Subject><Room name="A306"></Room>
+    </Hour>
+    <Hour name="20:00">
+      <Teacher name="Öğr. Gör. Şenol TOPRAK"></Teacher><Subject name="GBIL215 - İŞLETME"></Subject><Room name="A306"></Room>
+    </Hour>
+   </Day>
+   <Day name="Perşembe">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="GBIL209 - AĞ TEMELLERİ"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="GBIL209 - AĞ TEMELLERİ"></Subject><Room name="A301"></Room>
+    </Hour>
+    <Hour name="17:00">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="GBIL219 - MESLEK ETİĞİ"></Subject><Room name="A306"></Room>
+    </Hour>
+    <Hour name="18:00">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="GBIL219 - MESLEK ETİĞİ"></Subject><Room name="A306"></Room>
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Cuma">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="GBIL207 - AÇIK KAYNAK İŞLETİM SİSTEMİ"></Subject><Room name="A302"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="GBIL207 - AÇIK KAYNAK İŞLETİM SİSTEMİ"></Subject><Room name="A302"></Room>
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+</Students_Timetable>

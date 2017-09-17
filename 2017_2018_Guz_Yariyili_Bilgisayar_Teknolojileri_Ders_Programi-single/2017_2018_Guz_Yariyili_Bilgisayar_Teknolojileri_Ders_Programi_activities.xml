@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Activities_Timetable>
+<Activity>
+	<Id>1</Id>
+	<Day>Çarşamba</Day>
+	<Hour>09:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>2</Id>
+	<Day>Çarşamba</Day>
+	<Hour>10:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>3</Id>
+	<Day>Çarşamba</Day>
+	<Hour>11:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>4</Id>
+	<Day>Çarşamba</Day>
+	<Hour>08:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>5</Id>
+	<Day>Pazartesi</Day>
+	<Hour>13:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>6</Id>
+	<Day>Pazartesi</Day>
+	<Hour>14:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>7</Id>
+	<Day>Salı</Day>
+	<Hour>10:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>8</Id>
+	<Day>Salı</Day>
+	<Hour>11:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>9</Id>
+	<Day>Pazartesi</Day>
+	<Hour>09:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>10</Id>
+	<Day>Pazartesi</Day>
+	<Hour>10:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>11</Id>
+	<Day>Pazartesi</Day>
+	<Hour>11:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>12</Id>
+	<Day>Perşembe</Day>
+	<Hour>08:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>13</Id>
+	<Day>Perşembe</Day>
+	<Hour>09:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>14</Id>
+	<Day>Perşembe</Day>
+	<Hour>10:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>15</Id>
+	<Day>Perşembe</Day>
+	<Hour>11:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>16</Id>
+	<Day>Perşembe</Day>
+	<Hour>13:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>17</Id>
+	<Day>Perşembe</Day>
+	<Hour>14:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>18</Id>
+	<Day>Salı</Day>
+	<Hour>08:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>19</Id>
+	<Day>Salı</Day>
+	<Hour>09:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>20</Id>
+	<Day>Çarşamba</Day>
+	<Hour>10:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>21</Id>
+	<Day>Çarşamba</Day>
+	<Hour>11:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>22</Id>
+	<Day>Çarşamba</Day>
+	<Hour>13:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>23</Id>
+	<Day>Çarşamba</Day>
+	<Hour>14:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>24</Id>
+	<Day>Salı</Day>
+	<Hour>10:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>25</Id>
+	<Day>Salı</Day>
+	<Hour>11:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>26</Id>
+	<Day>Salı</Day>
+	<Hour>08:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>27</Id>
+	<Day>Salı</Day>
+	<Hour>09:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>28</Id>
+	<Day>Salı</Day>
+	<Hour>13:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>29</Id>
+	<Day>Salı</Day>
+	<Hour>14:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>30</Id>
+	<Day>Pazartesi</Day>
+	<Hour>13:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>31</Id>
+	<Day>Pazartesi</Day>
+	<Hour>14:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>32</Id>
+	<Day>Çarşamba</Day>
+	<Hour>08:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>33</Id>
+	<Day>Çarşamba</Day>
+	<Hour>09:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>34</Id>
+	<Day>Perşembe</Day>
+	<Hour>13:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>35</Id>
+	<Day>Perşembe</Day>
+	<Hour>14:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>36</Id>
+	<Day>Perşembe</Day>
+	<Hour>08:00</Hour>
+	<Room>A306</Room>
+</Activity>
+<Activity>
+	<Id>37</Id>
+	<Day>Perşembe</Day>
+	<Hour>09:00</Hour>
+	<Room>A306</Room>
+</Activity>
+<Activity>
+	<Id>38</Id>
+	<Day>Perşembe</Day>
+	<Hour>10:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>39</Id>
+	<Day>Perşembe</Day>
+	<Hour>11:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>40</Id>
+	<Day>Pazartesi</Day>
+	<Hour>08:00</Hour>
+	<Room>A306</Room>
+</Activity>
+<Activity>
+	<Id>41</Id>
+	<Day>Pazartesi</Day>
+	<Hour>09:00</Hour>
+	<Room>A306</Room>
+</Activity>
+<Activity>
+	<Id>42</Id>
+	<Day>Pazartesi</Day>
+	<Hour>10:00</Hour>
+	<Room>A306</Room>
+</Activity>
+<Activity>
+	<Id>43</Id>
+	<Day>Pazartesi</Day>
+	<Hour>11:00</Hour>
+	<Room>A306</Room>
+</Activity>
+<Activity>
+	<Id>44</Id>
+	<Day>Salı</Day>
+	<Hour>17:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>45</Id>
+	<Day>Salı</Day>
+	<Hour>18:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>46</Id>
+	<Day>Salı</Day>
+	<Hour>19:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>47</Id>
+	<Day>Salı</Day>
+	<Hour>20:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>48</Id>
+	<Day>Pazartesi</Day>
+	<Hour>15:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>49</Id>
+	<Day>Pazartesi</Day>
+	<Hour>16:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>50</Id>
+	<Day>Pazartesi</Day>
+	<Hour>17:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>51</Id>
+	<Day>Pazartesi</Day>
+	<Hour>18:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>52</Id>
+	<Day>Pazartesi</Day>
+	<Hour>19:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>53</Id>
+	<Day>Pazartesi</Day>
+	<Hour>20:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>54</Id>
+	<Day>Salı</Day>
+	<Hour>15:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>55</Id>
+	<Day>Salı</Day>
+	<Hour>16:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>56</Id>
+	<Day>Cuma</Day>
+	<Hour>15:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>57</Id>
+	<Day>Cuma</Day>
+	<Hour>16:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>58</Id>
+	<Day>Perşembe</Day>
+	<Hour>15:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>59</Id>
+	<Day>Perşembe</Day>
+	<Hour>16:00</Hour>
+	<Room>A301</Room>
+</Activity>
+<Activity>
+	<Id>60</Id>
+	<Day>Çarşamba</Day>
+	<Hour>15:00</Hour>
+	<Room>A306</Room>
+</Activity>
+<Activity>
+	<Id>61</Id>
+	<Day>Çarşamba</Day>
+	<Hour>16:00</Hour>
+	<Room>A306</Room>
+</Activity>
+<Activity>
+	<Id>62</Id>
+	<Day>Çarşamba</Day>
+	<Hour>17:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>63</Id>
+	<Day>Çarşamba</Day>
+	<Hour>18:00</Hour>
+	<Room>A302</Room>
+</Activity>
+<Activity>
+	<Id>64</Id>
+	<Day>Çarşamba</Day>
+	<Hour>19:00</Hour>
+	<Room>A306</Room>
+</Activity>
+<Activity>
+	<Id>65</Id>
+	<Day>Çarşamba</Day>
+	<Hour>20:00</Hour>
+	<Room>A306</Room>
+</Activity>
+<Activity>
+	<Id>66</Id>
+	<Day>Perşembe</Day>
+	<Hour>17:00</Hour>
+	<Room>A306</Room>
+</Activity>
+<Activity>
+	<Id>67</Id>
+	<Day>Perşembe</Day>
+	<Hour>18:00</Hour>
+	<Room>A306</Room>
+</Activity>
+</Activities_Timetable>
