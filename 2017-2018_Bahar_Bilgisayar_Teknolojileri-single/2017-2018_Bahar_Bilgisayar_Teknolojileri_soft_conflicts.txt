@@ -1,0 +1,10 @@
+﻿Soft conflicts of 2017-2018_Bahar_Bilgisayar_Teknolojileri.fet
+Generated with FET 5.33.1 on 2/1/18 8:06 AM
+
+Number of broken soft constraints: 0
+Total soft conflicts: 0
+
+Soft conflicts list (in decreasing order):
+
+
+End of file.

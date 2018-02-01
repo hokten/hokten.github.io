@@ -1,0 +1,1767 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Teachers_Timetable>
+  <Teacher name="Öğr.Gör. Sabri Serkan TAN">
+   <Day name="Pazartesi">
+    <Hour name="08:00">
+     <Subject name="BIL204 - NESNE TABANLI PROGRAMLAMA II"></Subject><Students name="Bil. Prg. II. Sınıf I. Öğrt."></Students><Room name="A301 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="BIL204 - NESNE TABANLI PROGRAMLAMA II"></Subject><Students name="Bil. Prg. II. Sınıf I. Öğrt."></Students><Room name="A301 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="BIL204 - NESNE TABANLI PROGRAMLAMA II"></Subject><Students name="Bil. Prg. II. Sınıf I. Öğrt."></Students><Room name="A301 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="BIL204 - NESNE TABANLI PROGRAMLAMA II"></Subject><Students name="Bil. Prg. II. Sınıf I. Öğrt."></Students><Room name="A301 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="BIL104 - GÖRSEL PROGRAMLAMA-II"></Subject><Students name="Bil. Prg. I. Sınıf I. Öğrt."></Students><Room name="A301 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="BIL104 - GÖRSEL PROGRAMLAMA-II"></Subject><Students name="Bil. Prg. I. Sınıf I. Öğrt."></Students><Room name="A301 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     <Subject name="GBIL204 - NESNE TABANLI PROGRAMLAMA II"></Subject><Students name="Bil. Prg. II. Sınıf II. Öğrt."></Students><Room name="A301 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="18:00">
+     <Subject name="GBIL204 - NESNE TABANLI PROGRAMLAMA II"></Subject><Students name="Bil. Prg. II. Sınıf II. Öğrt."></Students><Room name="A301 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="19:00">
+     <Subject name="GBIL206 - SİSTEM ANALİZİ VE TASARIMI"></Subject><Students name="Bil. Prg. II. Sınıf II. Öğrt."></Students><Room name="A301 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="20:00">
+     <Subject name="GBIL206 - SİSTEM ANALİZİ VE TASARIMI"></Subject><Students name="Bil. Prg. II. Sınıf II. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="21:00">
+     <Subject name="GBIL206 - SİSTEM ANALİZİ VE TASARIMI"></Subject><Students name="Bil. Prg. II. Sınıf II. Öğrt."></Students><Room name="A301 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="22:00">
+     <Subject name="GBIL206 - SİSTEM ANALİZİ VE TASARIMI"></Subject><Students name="Bil. Prg. II. Sınıf II. Öğrt."></Students><Room name="A304"></Room>
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Salı">
+    <Hour name="08:00">
+     <Subject name="BIL108 - VERİ TABANI-I"></Subject><Students name="Bil. Prg. I. Sınıf I. Öğrt."></Students><Room name="A301 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="BIL108 - VERİ TABANI-I"></Subject><Students name="Bil. Prg. I. Sınıf I. Öğrt."></Students><Room name="A301 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="BIL108 - VERİ TABANI-I"></Subject><Students name="Bil. Prg. I. Sınıf I. Öğrt."></Students><Room name="A301 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="BIL108 - VERİ TABANI-I"></Subject><Students name="Bil. Prg. I. Sınıf I. Öğrt."></Students><Room name="A301 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="BIL104 - GÖRSEL PROGRAMLAMA-II"></Subject><Students name="Bil. Prg. I. Sınıf I. Öğrt."></Students><Room name="A301 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="BIL104 - GÖRSEL PROGRAMLAMA-II"></Subject><Students name="Bil. Prg. I. Sınıf I. Öğrt."></Students><Room name="A301 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="GBIL204 - NESNE TABANLI PROGRAMLAMA II"></Subject><Students name="Bil. Prg. II. Sınıf II. Öğrt."></Students><Room name="A301 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="GBIL204 - NESNE TABANLI PROGRAMLAMA II"></Subject><Students name="Bil. Prg. II. Sınıf II. Öğrt."></Students><Room name="A301 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Çarşamba">
+    <Hour name="08:00">
+     <Subject name="BIL206 - SİSTEM ANALİZİ VE TASARIMI"></Subject><Students name="Bil. Prg. II. Sınıf I. Öğrt."></Students><Room name="A304"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="BIL206 - SİSTEM ANALİZİ VE TASARIMI"></Subject><Students name="Bil. Prg. II. Sınıf I. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="BIL206 - SİSTEM ANALİZİ VE TASARIMI"></Subject><Students name="Bil. Prg. II. Sınıf I. Öğrt."></Students><Room name="A301 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="BIL206 - SİSTEM ANALİZİ VE TASARIMI"></Subject><Students name="Bil. Prg. II. Sınıf I. Öğrt."></Students><Room name="A301 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Perşembe">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Cuma">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN">
+   <Day name="Pazartesi">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Salı">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="BIL214 - İÇERİK YÖNETİM SİSTEMİ"></Subject><Students name="Bil. Prg. II. Sınıf I. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="BIL214 - İÇERİK YÖNETİM SİSTEMİ"></Subject><Students name="Bil. Prg. II. Sınıf I. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="BIL208 - WEB PROJESİ YÖNETİMİ "></Subject><Students name="Bil. Prg. II. Sınıf I. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="BIL208 - WEB PROJESİ YÖNETİMİ "></Subject><Students name="Bil. Prg. II. Sınıf I. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     <Subject name="GBIL214 - İÇERİK YÖNETİM SİSTEMİ"></Subject><Students name="Bil. Prg. II. Sınıf II. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="18:00">
+     <Subject name="GBIL214 - İÇERİK YÖNETİM SİSTEMİ"></Subject><Students name="Bil. Prg. II. Sınıf II. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Çarşamba">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Perşembe">
+    <Hour name="08:00">
+     <Subject name="BIL202 - İNTERNET PROGRAMCILIĞI -II"></Subject><Students name="Bil. Prg. II. Sınıf I. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="BIL202 - İNTERNET PROGRAMCILIĞI -II"></Subject><Students name="Bil. Prg. II. Sınıf I. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="BIL202 - İNTERNET PROGRAMCILIĞI -II"></Subject><Students name="Bil. Prg. II. Sınıf I. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="BIL202 - İNTERNET PROGRAMCILIĞI -II"></Subject><Students name="Bil. Prg. II. Sınıf I. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="BIL210 - SUNUCU İŞLETİM SİSTEMİ"></Subject><Students name="Bil. Prg. II. Sınıf I. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="BIL210 - SUNUCU İŞLETİM SİSTEMİ"></Subject><Students name="Bil. Prg. II. Sınıf I. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="GBIL202 - İNTERNET PROGRAMCILIĞI -II"></Subject><Students name="Bil. Prg. II. Sınıf II. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="GBIL202 - İNTERNET PROGRAMCILIĞI -II"></Subject><Students name="Bil. Prg. II. Sınıf II. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="17:00">
+     <Subject name="GBIL202 - İNTERNET PROGRAMCILIĞI -II"></Subject><Students name="Bil. Prg. II. Sınıf II. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="18:00">
+     <Subject name="GBIL202 - İNTERNET PROGRAMCILIĞI -II"></Subject><Students name="Bil. Prg. II. Sınıf II. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Cuma">
+    <Hour name="08:00">
+     <Subject name="BIL210 - SUNUCU İŞLETİM SİSTEMİ"></Subject><Students name="Bil. Prg. II. Sınıf I. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="BIL210 - SUNUCU İŞLETİM SİSTEMİ"></Subject><Students name="Bil. Prg. II. Sınıf I. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="BIL106 - GRAFİK VE ANİMASYON-II"></Subject><Students name="Bil. Prg. I. Sınıf I. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="BIL106 - GRAFİK VE ANİMASYON-II"></Subject><Students name="Bil. Prg. I. Sınıf I. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="BIL106 - GRAFİK VE ANİMASYON-II"></Subject><Students name="Bil. Prg. I. Sınıf I. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="GBIL210 - SUNUCU İŞLETİM SİSTEMİ"></Subject><Students name="Bil. Prg. II. Sınıf II. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="GBIL210 - SUNUCU İŞLETİM SİSTEMİ"></Subject><Students name="Bil. Prg. II. Sınıf II. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="17:00">
+     <Subject name="GBIL210 - SUNUCU İŞLETİM SİSTEMİ"></Subject><Students name="Bil. Prg. II. Sınıf II. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="18:00">
+     <Subject name="GBIL210 - SUNUCU İŞLETİM SİSTEMİ"></Subject><Students name="Bil. Prg. II. Sınıf II. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Doç. Dr. Hasan TANAK">
+   <Day name="Pazartesi">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="GBIL212 - MESLEKİ YABANCI DİL-II"></Subject><Students name="Bil. Prg. II. Sınıf II. Öğrt."></Students><Room name="A305"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="GBIL212 - MESLEKİ YABANCI DİL-II"></Subject><Students name="Bil. Prg. II. Sınıf II. Öğrt."></Students><Room name="A305"></Room>
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Salı">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Çarşamba">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="GBIL216 - YAZILIM MİMARİLERİ"></Subject><Students name="Bil. Prg. II. Sınıf II. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="GBIL216 - YAZILIM MİMARİLERİ"></Subject><Students name="Bil. Prg. II. Sınıf II. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="17:00">
+     <Subject name="GBIL208 - WEB PROJESİ YÖNETİMİ "></Subject><Students name="Bil. Prg. II. Sınıf II. Öğrt."></Students><Room name="A305"></Room>
+    </Hour>
+    <Hour name="18:00">
+     <Subject name="GBIL208 - WEB PROJESİ YÖNETİMİ "></Subject><Students name="Bil. Prg. II. Sınıf II. Öğrt."></Students><Room name="A305"></Room>
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Perşembe">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Cuma">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Öğr. Gör. Şenol TOPRAK">
+   <Day name="Pazartesi">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="BIL110 - BİLGİSAYAR DONANIMI"></Subject><Students name="Bil. Prg. I. Sınıf I. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="BIL110 - BİLGİSAYAR DONANIMI"></Subject><Students name="Bil. Prg. I. Sınıf I. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="BIL216 - YAZILIM MİMARİLERİ"></Subject><Students name="Bil. Prg. II. Sınıf I. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="BIL216 - YAZILIM MİMARİLERİ"></Subject><Students name="Bil. Prg. II. Sınıf I. Öğrt."></Students><Room name="A302 (Bil. Lab.)"></Room>
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Salı">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Çarşamba">
+    <Hour name="08:00">
+     <Subject name="BIL112 - İLETİŞİM"></Subject><Students name="Bil. Prg. I. Sınıf I. Öğrt."></Students><Room name="A305"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="BIL112 - İLETİŞİM"></Subject><Students name="Bil. Prg. I. Sınıf I. Öğrt."></Students><Room name="A305"></Room>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Perşembe">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Cuma">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="BIL212 - MESLEKİ YABANCI DİL-II"></Subject><Students name="Bil. Prg. II. Sınıf I. Öğrt."></Students><Room name="A305"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="BIL212 - MESLEKİ YABANCI DİL-II"></Subject><Students name="Bil. Prg. II. Sınıf I. Öğrt."></Students><Room name="A304"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Öğr. Gör. Engin KAYNAR">
+   <Day name="Pazartesi">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Salı">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Çarşamba">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="BIL102 - MATEMATİK"></Subject><Students name="Bil. Prg. I. Sınıf I. Öğrt."></Students><Room name="A304"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="BIL102 - MATEMATİK"></Subject><Students name="Bil. Prg. I. Sınıf I. Öğrt."></Students><Room name="A304"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="BIL102 - MATEMATİK"></Subject><Students name="Bil. Prg. I. Sınıf I. Öğrt."></Students><Room name="A304"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="BIL102 - MATEMATİK"></Subject><Students name="Bil. Prg. I. Sınıf I. Öğrt."></Students><Room name="A304"></Room>
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Perşembe">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Cuma">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Doç. Dr. Recep ÇAKIR">
+   <Day name="Pazartesi">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Salı">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Çarşamba">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Perşembe">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Cuma">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Yrd. Doç. Dr. Yavuz ÜNAL">
+   <Day name="Pazartesi">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Salı">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Çarşamba">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Perşembe">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Cuma">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+</Teachers_Timetable>
