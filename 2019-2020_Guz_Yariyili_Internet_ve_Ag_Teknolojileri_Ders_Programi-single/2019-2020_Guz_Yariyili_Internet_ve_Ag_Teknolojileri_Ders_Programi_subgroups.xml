@@ -1,0 +1,1287 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Students_Timetable>
+  <Subgroup name="I. Sınıf Automatic Subgroup">
+   <Day name="Pazartesi">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+      <Teacher name="Prof. Dr. Feda ÖNER"></Teacher><Subject name="UIAT111 - Ofis Yazılımları"></Subject>
+    </Hour>
+    <Hour name="21:00">
+      <Teacher name="Prof. Dr. Feda ÖNER"></Teacher><Subject name="UIAT111 - Ofis Yazılımları"></Subject>
+    </Hour>
+    <Hour name="21:10">
+      <Teacher name="Prof. Dr. Feda ÖNER"></Teacher><Subject name="UIAT111 - Ofis Yazılımları"></Subject>
+    </Hour>
+    <Hour name="21:20">
+      <Teacher name="Prof. Dr. Feda ÖNER"></Teacher><Subject name="UIAT111 - Ofis Yazılımları"></Subject>
+    </Hour>
+    <Hour name="21:30">
+      <Teacher name="Prof. Dr. Feda ÖNER"></Teacher><Subject name="UIAT111 - Ofis Yazılımları"></Subject>
+    </Hour>
+    <Hour name="21:40">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="UIAT101 - Programlama Temelleri"></Subject>
+    </Hour>
+    <Hour name="21:50">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="UIAT101 - Programlama Temelleri"></Subject>
+    </Hour>
+    <Hour name="22:00">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="UIAT101 - Programlama Temelleri"></Subject>
+    </Hour>
+    <Hour name="22:10">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="UIAT101 - Programlama Temelleri"></Subject>
+    </Hour>
+    <Hour name="22:20">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="UIAT101 - Programlama Temelleri"></Subject>
+    </Hour>
+    <Hour name="22:30">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="UIAT101 - Programlama Temelleri"></Subject>
+    </Hour>
+    <Hour name="22:40">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="UIAT101 - Programlama Temelleri"></Subject>
+    </Hour>
+    <Hour name="22:50">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="UIAT101 - Programlama Temelleri"></Subject>
+    </Hour>
+    <Hour name="23:00">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="UIAT101 - Programlama Temelleri"></Subject>
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Salı">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+      <Teacher name="Öğr. Gör. Engin KAYNAR"></Teacher><Subject name="UIAT103 - Matematik"></Subject>
+    </Hour>
+    <Hour name="19:10">
+      <Teacher name="Öğr. Gör. Engin KAYNAR"></Teacher><Subject name="UIAT103 - Matematik"></Subject>
+    </Hour>
+    <Hour name="19:20">
+      <Teacher name="Öğr. Gör. Engin KAYNAR"></Teacher><Subject name="UIAT103 - Matematik"></Subject>
+    </Hour>
+    <Hour name="19:30">
+      <Teacher name="Öğr. Gör. Engin KAYNAR"></Teacher><Subject name="UIAT103 - Matematik"></Subject>
+    </Hour>
+    <Hour name="19:40">
+      <Teacher name="Öğr. Gör. Engin KAYNAR"></Teacher><Subject name="UIAT103 - Matematik"></Subject>
+    </Hour>
+    <Hour name="19:50">
+      <Teacher name="Öğr. Gör. Engin KAYNAR"></Teacher><Subject name="UIAT103 - Matematik"></Subject>
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="UIAT105 - İşletim Sistemleri"></Subject>
+    </Hour>
+    <Hour name="20:20">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="UIAT105 - İşletim Sistemleri"></Subject>
+    </Hour>
+    <Hour name="20:30">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="UIAT105 - İşletim Sistemleri"></Subject>
+    </Hour>
+    <Hour name="20:40">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="UIAT105 - İşletim Sistemleri"></Subject>
+    </Hour>
+    <Hour name="20:50">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="UIAT105 - İşletim Sistemleri"></Subject>
+    </Hour>
+    <Hour name="21:00">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="UIAT105 - İşletim Sistemleri"></Subject>
+    </Hour>
+    <Hour name="21:10">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="UIAT105 - İşletim Sistemleri"></Subject>
+    </Hour>
+    <Hour name="21:20">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="UIAT105 - İşletim Sistemleri"></Subject>
+    </Hour>
+    <Hour name="21:30">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="UIAT105 - İşletim Sistemleri"></Subject>
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Çarşamba">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+      <Teacher name="Doç. Dr. Recep ÇAKIR"></Teacher><Subject name="UIAT107 - Bilgisayar Donanımı"></Subject>
+    </Hour>
+    <Hour name="19:10">
+      <Teacher name="Doç. Dr. Recep ÇAKIR"></Teacher><Subject name="UIAT107 - Bilgisayar Donanımı"></Subject>
+    </Hour>
+    <Hour name="19:20">
+      <Teacher name="Doç. Dr. Recep ÇAKIR"></Teacher><Subject name="UIAT107 - Bilgisayar Donanımı"></Subject>
+    </Hour>
+    <Hour name="19:30">
+      <Teacher name="Doç. Dr. Recep ÇAKIR"></Teacher><Subject name="UIAT107 - Bilgisayar Donanımı"></Subject>
+    </Hour>
+    <Hour name="19:40">
+      <Teacher name="Doç. Dr. Recep ÇAKIR"></Teacher><Subject name="UIAT107 - Bilgisayar Donanımı"></Subject>
+    </Hour>
+    <Hour name="19:50">
+      <Teacher name="Doç. Dr. Recep ÇAKIR"></Teacher><Subject name="UIAT107 - Bilgisayar Donanımı"></Subject>
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Perşembe">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+      <Teacher name="Okt. İmran GÜNDÜZ ALPTÜRKER"></Teacher><Subject name="UTDL101 - Türk Dili I"></Subject>
+    </Hour>
+    <Hour name="19:10">
+      <Teacher name="Okt. İmran GÜNDÜZ ALPTÜRKER"></Teacher><Subject name="UTDL101 - Türk Dili I"></Subject>
+    </Hour>
+    <Hour name="19:20">
+      <Teacher name="Okt. İmran GÜNDÜZ ALPTÜRKER"></Teacher><Subject name="UTDL101 - Türk Dili I"></Subject>
+    </Hour>
+    <Hour name="19:30">
+      <Teacher name="Okt. İmran GÜNDÜZ ALPTÜRKER"></Teacher><Subject name="UTDL101 - Türk Dili I"></Subject>
+    </Hour>
+    <Hour name="19:40">
+      <Teacher name="Okt. İmran GÜNDÜZ ALPTÜRKER"></Teacher><Subject name="UTDL101 - Türk Dili I"></Subject>
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+      <Teacher name="Okt. Yunus Emre CİLOŞOĞLU"></Teacher><Subject name="UAIT101 - Atatürk İlkeleri ve İnkılap Tarihi I"></Subject>
+    </Hour>
+    <Hour name="20:10">
+      <Teacher name="Okt. Yunus Emre CİLOŞOĞLU"></Teacher><Subject name="UAIT101 - Atatürk İlkeleri ve İnkılap Tarihi I"></Subject>
+    </Hour>
+    <Hour name="20:20">
+      <Teacher name="Okt. Yunus Emre CİLOŞOĞLU"></Teacher><Subject name="UAIT101 - Atatürk İlkeleri ve İnkılap Tarihi I"></Subject>
+    </Hour>
+    <Hour name="20:30">
+      <Teacher name="Okt. Yunus Emre CİLOŞOĞLU"></Teacher><Subject name="UAIT101 - Atatürk İlkeleri ve İnkılap Tarihi I"></Subject>
+    </Hour>
+    <Hour name="20:40">
+      <Teacher name="Okt. Yunus Emre CİLOŞOĞLU"></Teacher><Subject name="UAIT101 - Atatürk İlkeleri ve İnkılap Tarihi I"></Subject>
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+      <Teacher name="Okt. Serap Özge AYDIN"></Teacher><Subject name="UYDL101 - Yabancı Dil I"></Subject>
+    </Hour>
+    <Hour name="21:10">
+      <Teacher name="Okt. Serap Özge AYDIN"></Teacher><Subject name="UYDL101 - Yabancı Dil I"></Subject>
+    </Hour>
+    <Hour name="21:20">
+      <Teacher name="Okt. Serap Özge AYDIN"></Teacher><Subject name="UYDL101 - Yabancı Dil I"></Subject>
+    </Hour>
+    <Hour name="21:30">
+      <Teacher name="Okt. Serap Özge AYDIN"></Teacher><Subject name="UYDL101 - Yabancı Dil I"></Subject>
+    </Hour>
+    <Hour name="21:40">
+      <Teacher name="Okt. Serap Özge AYDIN"></Teacher><Subject name="UYDL101 - Yabancı Dil I"></Subject>
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Cuma">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="II. Sınıf Automatic Subgroup">
+   <Day name="Pazartesi">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="UIAT201 - Veri Tabanı Yönetim Sistemleri"></Subject>
+    </Hour>
+    <Hour name="20:10">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="UIAT201 - Veri Tabanı Yönetim Sistemleri"></Subject>
+    </Hour>
+    <Hour name="20:20">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="UIAT201 - Veri Tabanı Yönetim Sistemleri"></Subject>
+    </Hour>
+    <Hour name="20:30">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="UIAT201 - Veri Tabanı Yönetim Sistemleri"></Subject>
+    </Hour>
+    <Hour name="20:40">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="UIAT201 - Veri Tabanı Yönetim Sistemleri"></Subject>
+    </Hour>
+    <Hour name="20:50">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="UIAT201 - Veri Tabanı Yönetim Sistemleri"></Subject>
+    </Hour>
+    <Hour name="21:00">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="UIAT201 - Veri Tabanı Yönetim Sistemleri"></Subject>
+    </Hour>
+    <Hour name="21:10">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="UIAT201 - Veri Tabanı Yönetim Sistemleri"></Subject>
+    </Hour>
+    <Hour name="21:20">
+      <Teacher name="Öğr. Gör. Sabri Serkan TAN"></Teacher><Subject name="UIAT201 - Veri Tabanı Yönetim Sistemleri"></Subject>
+    </Hour>
+    <Hour name="21:30">
+      <Teacher name="Prof. Dr. Hasan TANAK"></Teacher><Subject name="UIAT215 - Meslek Etiği"></Subject>
+    </Hour>
+    <Hour name="21:40">
+      <Teacher name="Prof. Dr. Hasan TANAK"></Teacher><Subject name="UIAT215 - Meslek Etiği"></Subject>
+    </Hour>
+    <Hour name="21:50">
+      <Teacher name="Prof. Dr. Hasan TANAK"></Teacher><Subject name="UIAT215 - Meslek Etiği"></Subject>
+    </Hour>
+    <Hour name="22:00">
+      <Teacher name="Prof. Dr. Hasan TANAK"></Teacher><Subject name="UIAT215 - Meslek Etiği"></Subject>
+    </Hour>
+    <Hour name="22:10">
+      <Teacher name="Prof. Dr. Hasan TANAK"></Teacher><Subject name="UIAT215 - Meslek Etiği"></Subject>
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Salı">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="UIAT213 - İçerik Yönetim Sistemleri"></Subject>
+    </Hour>
+    <Hour name="19:30">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="UIAT213 - İçerik Yönetim Sistemleri"></Subject>
+    </Hour>
+    <Hour name="19:40">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="UIAT213 - İçerik Yönetim Sistemleri"></Subject>
+    </Hour>
+    <Hour name="19:50">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="UIAT213 - İçerik Yönetim Sistemleri"></Subject>
+    </Hour>
+    <Hour name="20:00">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="UIAT213 - İçerik Yönetim Sistemleri"></Subject>
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="UIAT207 - Java Programlama"></Subject>
+    </Hour>
+    <Hour name="20:30">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="UIAT207 - Java Programlama"></Subject>
+    </Hour>
+    <Hour name="20:40">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="UIAT207 - Java Programlama"></Subject>
+    </Hour>
+    <Hour name="20:50">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="UIAT207 - Java Programlama"></Subject>
+    </Hour>
+    <Hour name="21:00">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="UIAT207 - Java Programlama"></Subject>
+    </Hour>
+    <Hour name="21:10">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="UIAT207 - Java Programlama"></Subject>
+    </Hour>
+    <Hour name="21:20">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="UIAT207 - Java Programlama"></Subject>
+    </Hour>
+    <Hour name="21:30">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="UIAT207 - Java Programlama"></Subject>
+    </Hour>
+    <Hour name="21:40">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="UIAT207 - Java Programlama"></Subject>
+    </Hour>
+    <Hour name="21:50">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="UIAT209 - İleri Ağ Teknolojileri"></Subject>
+    </Hour>
+    <Hour name="22:00">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="UIAT209 - İleri Ağ Teknolojileri"></Subject>
+    </Hour>
+    <Hour name="22:10">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="UIAT209 - İleri Ağ Teknolojileri"></Subject>
+    </Hour>
+    <Hour name="22:20">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="UIAT209 - İleri Ağ Teknolojileri"></Subject>
+    </Hour>
+    <Hour name="22:30">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="UIAT209 - İleri Ağ Teknolojileri"></Subject>
+    </Hour>
+    <Hour name="22:40">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="UIAT209 - İleri Ağ Teknolojileri"></Subject>
+    </Hour>
+    <Hour name="22:50">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="UIAT209 - İleri Ağ Teknolojileri"></Subject>
+    </Hour>
+    <Hour name="23:00">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="UIAT209 - İleri Ağ Teknolojileri"></Subject>
+    </Hour>
+    <Hour name="23:10">
+      <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU"></Teacher><Subject name="UIAT209 - İleri Ağ Teknolojileri"></Subject>
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Çarşamba">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+      <Teacher name="Yrd. Doç. Dr. Yavuz ÜNAL"></Teacher><Subject name="UIAT203 - Sunucu Yönetimi"></Subject>
+    </Hour>
+    <Hour name="19:20">
+      <Teacher name="Yrd. Doç. Dr. Yavuz ÜNAL"></Teacher><Subject name="UIAT203 - Sunucu Yönetimi"></Subject>
+    </Hour>
+    <Hour name="19:30">
+      <Teacher name="Yrd. Doç. Dr. Yavuz ÜNAL"></Teacher><Subject name="UIAT203 - Sunucu Yönetimi"></Subject>
+    </Hour>
+    <Hour name="19:40">
+      <Teacher name="Yrd. Doç. Dr. Yavuz ÜNAL"></Teacher><Subject name="UIAT203 - Sunucu Yönetimi"></Subject>
+    </Hour>
+    <Hour name="19:50">
+      <Teacher name="Yrd. Doç. Dr. Yavuz ÜNAL"></Teacher><Subject name="UIAT203 - Sunucu Yönetimi"></Subject>
+    </Hour>
+    <Hour name="20:00">
+      <Teacher name="Yrd. Doç. Dr. Yavuz ÜNAL"></Teacher><Subject name="UIAT203 - Sunucu Yönetimi"></Subject>
+    </Hour>
+    <Hour name="20:10">
+      <Teacher name="Yrd. Doç. Dr. Yavuz ÜNAL"></Teacher><Subject name="UIAT203 - Sunucu Yönetimi"></Subject>
+    </Hour>
+    <Hour name="20:20">
+      <Teacher name="Yrd. Doç. Dr. Yavuz ÜNAL"></Teacher><Subject name="UIAT203 - Sunucu Yönetimi"></Subject>
+    </Hour>
+    <Hour name="20:30">
+      <Teacher name="Yrd. Doç. Dr. Yavuz ÜNAL"></Teacher><Subject name="UIAT203 - Sunucu Yönetimi"></Subject>
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Perşembe">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="UIAT205 - İnternet Programcılığı I"></Subject>
+    </Hour>
+    <Hour name="22:10">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="UIAT205 - İnternet Programcılığı I"></Subject>
+    </Hour>
+    <Hour name="22:20">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="UIAT205 - İnternet Programcılığı I"></Subject>
+    </Hour>
+    <Hour name="22:30">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="UIAT205 - İnternet Programcılığı I"></Subject>
+    </Hour>
+    <Hour name="22:40">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="UIAT205 - İnternet Programcılığı I"></Subject>
+    </Hour>
+    <Hour name="22:50">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="UIAT205 - İnternet Programcılığı I"></Subject>
+    </Hour>
+    <Hour name="23:00">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="UIAT205 - İnternet Programcılığı I"></Subject>
+    </Hour>
+    <Hour name="23:10">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="UIAT205 - İnternet Programcılığı I"></Subject>
+    </Hour>
+    <Hour name="23:20">
+      <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN"></Teacher><Subject name="UIAT205 - İnternet Programcılığı I"></Subject>
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Cuma">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+</Students_Timetable>

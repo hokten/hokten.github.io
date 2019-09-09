@@ -1,0 +1,7065 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Teachers_Timetable>
+  <Teacher name="Okt. Yunus Emre CİLOŞOĞLU">
+   <Day name="Pazartesi">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Salı">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Çarşamba">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Perşembe">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     <Subject name="UAIT101 - Atatürk İlkeleri ve İnkılap Tarihi I"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="20:10">
+     <Subject name="UAIT101 - Atatürk İlkeleri ve İnkılap Tarihi I"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="20:20">
+     <Subject name="UAIT101 - Atatürk İlkeleri ve İnkılap Tarihi I"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="20:30">
+     <Subject name="UAIT101 - Atatürk İlkeleri ve İnkılap Tarihi I"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="20:40">
+     <Subject name="UAIT101 - Atatürk İlkeleri ve İnkılap Tarihi I"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Cuma">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Okt. Serap Özge AYDIN">
+   <Day name="Pazartesi">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Salı">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Çarşamba">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Perşembe">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     <Subject name="UYDL101 - Yabancı Dil I"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:10">
+     <Subject name="UYDL101 - Yabancı Dil I"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:20">
+     <Subject name="UYDL101 - Yabancı Dil I"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:30">
+     <Subject name="UYDL101 - Yabancı Dil I"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:40">
+     <Subject name="UYDL101 - Yabancı Dil I"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Cuma">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Okt. İmran GÜNDÜZ ALPTÜRKER">
+   <Day name="Pazartesi">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Salı">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Çarşamba">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Perşembe">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     <Subject name="UTDL101 - Türk Dili I"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="19:10">
+     <Subject name="UTDL101 - Türk Dili I"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="19:20">
+     <Subject name="UTDL101 - Türk Dili I"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="19:30">
+     <Subject name="UTDL101 - Türk Dili I"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="19:40">
+     <Subject name="UTDL101 - Türk Dili I"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Cuma">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Öğr. Gör. Sabri Serkan TAN">
+   <Day name="Pazartesi">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     <Subject name="UIAT201 - Veri Tabanı Yönetim Sistemleri"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="20:10">
+     <Subject name="UIAT201 - Veri Tabanı Yönetim Sistemleri"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="20:20">
+     <Subject name="UIAT201 - Veri Tabanı Yönetim Sistemleri"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="20:30">
+     <Subject name="UIAT201 - Veri Tabanı Yönetim Sistemleri"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="20:40">
+     <Subject name="UIAT201 - Veri Tabanı Yönetim Sistemleri"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="20:50">
+     <Subject name="UIAT201 - Veri Tabanı Yönetim Sistemleri"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:00">
+     <Subject name="UIAT201 - Veri Tabanı Yönetim Sistemleri"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:10">
+     <Subject name="UIAT201 - Veri Tabanı Yönetim Sistemleri"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:20">
+     <Subject name="UIAT201 - Veri Tabanı Yönetim Sistemleri"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     <Subject name="UIAT101 - Programlama Temelleri"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:50">
+     <Subject name="UIAT101 - Programlama Temelleri"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="22:00">
+     <Subject name="UIAT101 - Programlama Temelleri"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="22:10">
+     <Subject name="UIAT101 - Programlama Temelleri"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="22:20">
+     <Subject name="UIAT101 - Programlama Temelleri"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="22:30">
+     <Subject name="UIAT101 - Programlama Temelleri"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="22:40">
+     <Subject name="UIAT101 - Programlama Temelleri"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="22:50">
+     <Subject name="UIAT101 - Programlama Temelleri"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="23:00">
+     <Subject name="UIAT101 - Programlama Temelleri"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Salı">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Çarşamba">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Perşembe">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Cuma">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Doç. Dr. Recep ÇAKIR">
+   <Day name="Pazartesi">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Salı">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Çarşamba">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     <Subject name="UIAT107 - Bilgisayar Donanımı"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="19:10">
+     <Subject name="UIAT107 - Bilgisayar Donanımı"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="19:20">
+     <Subject name="UIAT107 - Bilgisayar Donanımı"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="19:30">
+     <Subject name="UIAT107 - Bilgisayar Donanımı"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="19:40">
+     <Subject name="UIAT107 - Bilgisayar Donanımı"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="19:50">
+     <Subject name="UIAT107 - Bilgisayar Donanımı"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Perşembe">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Cuma">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Prof. Dr. Feda ÖNER">
+   <Day name="Pazartesi">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     <Subject name="UIAT111 - Ofis Yazılımları"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:00">
+     <Subject name="UIAT111 - Ofis Yazılımları"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:10">
+     <Subject name="UIAT111 - Ofis Yazılımları"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:20">
+     <Subject name="UIAT111 - Ofis Yazılımları"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:30">
+     <Subject name="UIAT111 - Ofis Yazılımları"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Salı">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Çarşamba">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Perşembe">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Cuma">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Yrd. Doç. Dr. Yavuz ÜNAL">
+   <Day name="Pazartesi">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Salı">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Çarşamba">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     <Subject name="UIAT203 - Sunucu Yönetimi"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="19:20">
+     <Subject name="UIAT203 - Sunucu Yönetimi"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="19:30">
+     <Subject name="UIAT203 - Sunucu Yönetimi"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="19:40">
+     <Subject name="UIAT203 - Sunucu Yönetimi"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="19:50">
+     <Subject name="UIAT203 - Sunucu Yönetimi"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="20:00">
+     <Subject name="UIAT203 - Sunucu Yönetimi"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="20:10">
+     <Subject name="UIAT203 - Sunucu Yönetimi"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="20:20">
+     <Subject name="UIAT203 - Sunucu Yönetimi"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="20:30">
+     <Subject name="UIAT203 - Sunucu Yönetimi"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Perşembe">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Cuma">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Yrd. Doç. Dr. Hasan Hüseyin ÖKTEN">
+   <Day name="Pazartesi">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Salı">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     <Subject name="UIAT207 - Java Programlama"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="20:30">
+     <Subject name="UIAT207 - Java Programlama"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="20:40">
+     <Subject name="UIAT207 - Java Programlama"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="20:50">
+     <Subject name="UIAT207 - Java Programlama"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:00">
+     <Subject name="UIAT207 - Java Programlama"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:10">
+     <Subject name="UIAT207 - Java Programlama"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:20">
+     <Subject name="UIAT207 - Java Programlama"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:30">
+     <Subject name="UIAT207 - Java Programlama"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:40">
+     <Subject name="UIAT207 - Java Programlama"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Çarşamba">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Perşembe">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     <Subject name="UIAT205 - İnternet Programcılığı I"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="22:10">
+     <Subject name="UIAT205 - İnternet Programcılığı I"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="22:20">
+     <Subject name="UIAT205 - İnternet Programcılığı I"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="22:30">
+     <Subject name="UIAT205 - İnternet Programcılığı I"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="22:40">
+     <Subject name="UIAT205 - İnternet Programcılığı I"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="22:50">
+     <Subject name="UIAT205 - İnternet Programcılığı I"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="23:00">
+     <Subject name="UIAT205 - İnternet Programcılığı I"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="23:10">
+     <Subject name="UIAT205 - İnternet Programcılığı I"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="23:20">
+     <Subject name="UIAT205 - İnternet Programcılığı I"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Cuma">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Yrd. Doç. Dr. Aslıhan İSTANBULLU">
+   <Day name="Pazartesi">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Salı">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     <Subject name="UIAT213 - İçerik Yönetim Sistemleri"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="19:30">
+     <Subject name="UIAT213 - İçerik Yönetim Sistemleri"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="19:40">
+     <Subject name="UIAT213 - İçerik Yönetim Sistemleri"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="19:50">
+     <Subject name="UIAT213 - İçerik Yönetim Sistemleri"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="20:00">
+     <Subject name="UIAT213 - İçerik Yönetim Sistemleri"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="20:10">
+     <Subject name="UIAT105 - İşletim Sistemleri"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="20:20">
+     <Subject name="UIAT105 - İşletim Sistemleri"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="20:30">
+     <Subject name="UIAT105 - İşletim Sistemleri"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="20:40">
+     <Subject name="UIAT105 - İşletim Sistemleri"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="20:50">
+     <Subject name="UIAT105 - İşletim Sistemleri"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:00">
+     <Subject name="UIAT105 - İşletim Sistemleri"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:10">
+     <Subject name="UIAT105 - İşletim Sistemleri"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:20">
+     <Subject name="UIAT105 - İşletim Sistemleri"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:30">
+     <Subject name="UIAT105 - İşletim Sistemleri"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     <Subject name="UIAT209 - İleri Ağ Teknolojileri"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="22:00">
+     <Subject name="UIAT209 - İleri Ağ Teknolojileri"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="22:10">
+     <Subject name="UIAT209 - İleri Ağ Teknolojileri"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="22:20">
+     <Subject name="UIAT209 - İleri Ağ Teknolojileri"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="22:30">
+     <Subject name="UIAT209 - İleri Ağ Teknolojileri"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="22:40">
+     <Subject name="UIAT209 - İleri Ağ Teknolojileri"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="22:50">
+     <Subject name="UIAT209 - İleri Ağ Teknolojileri"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="23:00">
+     <Subject name="UIAT209 - İleri Ağ Teknolojileri"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="23:10">
+     <Subject name="UIAT209 - İleri Ağ Teknolojileri"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Çarşamba">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Perşembe">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Cuma">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Öğr. Gör. Engin KAYNAR">
+   <Day name="Pazartesi">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Salı">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     <Subject name="UIAT103 - Matematik"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="19:10">
+     <Subject name="UIAT103 - Matematik"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="19:20">
+     <Subject name="UIAT103 - Matematik"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="19:30">
+     <Subject name="UIAT103 - Matematik"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="19:40">
+     <Subject name="UIAT103 - Matematik"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="19:50">
+     <Subject name="UIAT103 - Matematik"></Subject><Students name="I. Sınıf"></Students>
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Çarşamba">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Perşembe">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Cuma">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Prof. Dr. Hasan TANAK">
+   <Day name="Pazartesi">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     <Subject name="UIAT215 - Meslek Etiği"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:40">
+     <Subject name="UIAT215 - Meslek Etiği"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="21:50">
+     <Subject name="UIAT215 - Meslek Etiği"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="22:00">
+     <Subject name="UIAT215 - Meslek Etiği"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="22:10">
+     <Subject name="UIAT215 - Meslek Etiği"></Subject><Students name="II. Sınıf"></Students>
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Salı">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Çarşamba">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Perşembe">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+   <Day name="Cuma">
+    <Hour name="17:00">
+     
+    </Hour>
+    <Hour name="17:10">
+     
+    </Hour>
+    <Hour name="17:20">
+     
+    </Hour>
+    <Hour name="17:30">
+     
+    </Hour>
+    <Hour name="17:40">
+     
+    </Hour>
+    <Hour name="17:50">
+     
+    </Hour>
+    <Hour name="18:00">
+     
+    </Hour>
+    <Hour name="18:10">
+     
+    </Hour>
+    <Hour name="18:20">
+     
+    </Hour>
+    <Hour name="18:30">
+     
+    </Hour>
+    <Hour name="18:40">
+     
+    </Hour>
+    <Hour name="18:50">
+     
+    </Hour>
+    <Hour name="19:00">
+     
+    </Hour>
+    <Hour name="19:10">
+     
+    </Hour>
+    <Hour name="19:20">
+     
+    </Hour>
+    <Hour name="19:30">
+     
+    </Hour>
+    <Hour name="19:40">
+     
+    </Hour>
+    <Hour name="19:50">
+     
+    </Hour>
+    <Hour name="20:00">
+     
+    </Hour>
+    <Hour name="20:10">
+     
+    </Hour>
+    <Hour name="20:20">
+     
+    </Hour>
+    <Hour name="20:30">
+     
+    </Hour>
+    <Hour name="20:40">
+     
+    </Hour>
+    <Hour name="20:50">
+     
+    </Hour>
+    <Hour name="21:00">
+     
+    </Hour>
+    <Hour name="21:10">
+     
+    </Hour>
+    <Hour name="21:20">
+     
+    </Hour>
+    <Hour name="21:30">
+     
+    </Hour>
+    <Hour name="21:40">
+     
+    </Hour>
+    <Hour name="21:50">
+     
+    </Hour>
+    <Hour name="22:00">
+     
+    </Hour>
+    <Hour name="22:10">
+     
+    </Hour>
+    <Hour name="22:20">
+     
+    </Hour>
+    <Hour name="22:30">
+     
+    </Hour>
+    <Hour name="22:40">
+     
+    </Hour>
+    <Hour name="22:50">
+     
+    </Hour>
+    <Hour name="23:00">
+     
+    </Hour>
+    <Hour name="23:10">
+     
+    </Hour>
+    <Hour name="23:20">
+     
+    </Hour>
+    <Hour name="23:30">
+     
+    </Hour>
+    <Hour name="23:40">
+     
+    </Hour>
+    <Hour name="23:50">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+</Teachers_Timetable>
