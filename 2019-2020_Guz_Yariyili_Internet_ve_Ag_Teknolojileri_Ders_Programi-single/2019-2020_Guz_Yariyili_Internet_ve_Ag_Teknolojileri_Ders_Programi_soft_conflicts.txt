@@ -1,5 +1,5 @@
 ﻿Soft conflicts of 2019-2020_Guz_Yariyili_Internet_ve_Ag_Teknolojileri_Ders_Programi.fet
-Generated with FET 5.37.5 on 9/9/19 11:41 PM
+Generated with FET 5.37.5 on 9/12/19 6:26 AM
 
 Number of broken soft constraints: 0
 Total soft conflicts: 0

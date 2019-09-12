@@ -1,0 +1,10 @@
+﻿Soft conflicts of 2019-2020_Guz_Yariyili_Internet_ve_Ag_Teknolojileri_Beyan_Ders_Programi.fet
+Generated with FET 5.37.5 on 9/12/19 7:10 AM
+
+Number of broken soft constraints: 0
+Total soft conflicts: 0
+
+Soft conflicts list (in decreasing order):
+
+
+End of file.

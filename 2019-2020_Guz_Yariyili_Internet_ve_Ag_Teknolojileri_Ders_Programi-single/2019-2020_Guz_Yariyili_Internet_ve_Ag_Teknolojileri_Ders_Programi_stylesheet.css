@@ -1,7 +1,7 @@
 ﻿@charset "UTF-8";
 
 /* CSS Stylesheet of 2019-2020_Guz_Yariyili_Internet_ve_Ag_Teknolojileri_Ders_Programi.fet
-   Stylesheet generated with FET 5.37.5 on 9/9/19 11:41 PM */
+   Stylesheet generated with FET 5.37.5 on 9/12/19 6:26 AM */
 
 /* To do a page-break only after every second timetable, delete "page-break-before: always;" in "table.even_table". */
 /* Delete "page-break-before: always;" in "table.even_table" and in "table.odd_table" to skip page-breaks. */
@@ -148,79 +148,89 @@ td.c_15 { /* Activity id: 15 (subject) */
  color: white;
 }
 
-td.c_16 { /* Activity id: 1 (subject+students) */
+td.c_16 { /* Activity id: 16 (subject) */
+ background-color: rgb(226, 31, 236);
+ color: white;
+}
+
+td.c_17 { /* Activity id: 1 (subject+students) */
  background-color: rgb(224, 189, 16);
  color: black;
 }
 
-td.c_17 { /* Activity id: 2 (subject+students) */
+td.c_18 { /* Activity id: 2 (subject+students) */
  background-color: rgb(92, 140, 255);
  color: black;
 }
 
-td.c_18 { /* Activity id: 3 (subject+students) */
+td.c_19 { /* Activity id: 3 (subject+students) */
  background-color: rgb(99, 90, 19);
  color: white;
 }
 
-td.c_19 { /* Activity id: 4 (subject+students) */
+td.c_20 { /* Activity id: 4 (subject+students) */
  background-color: rgb(51, 79, 221);
  color: white;
 }
 
-td.c_20 { /* Activity id: 5 (subject+students) */
+td.c_21 { /* Activity id: 5 (subject+students) */
  background-color: rgb(30, 3, 127);
  color: white;
 }
 
-td.c_21 { /* Activity id: 6 (subject+students) */
+td.c_22 { /* Activity id: 6 (subject+students) */
  background-color: rgb(206, 226, 216);
  color: black;
 }
 
-td.c_22 { /* Activity id: 7 (subject+students) */
+td.c_23 { /* Activity id: 7 (subject+students) */
  background-color: rgb(39, 177, 130);
  color: black;
 }
 
-td.c_23 { /* Activity id: 8 (subject+students) */
+td.c_24 { /* Activity id: 8 (subject+students) */
  background-color: rgb(57, 78, 199);
  color: white;
 }
 
-td.c_24 { /* Activity id: 9 (subject+students) */
+td.c_25 { /* Activity id: 9 (subject+students) */
  background-color: rgb(230, 196, 160);
  color: black;
 }
 
-td.c_25 { /* Activity id: 10 (subject+students) */
+td.c_26 { /* Activity id: 10 (subject+students) */
  background-color: rgb(190, 149, 47);
  color: black;
 }
 
-td.c_26 { /* Activity id: 11 (subject+students) */
+td.c_27 { /* Activity id: 11 (subject+students) */
  background-color: rgb(174, 75, 107);
  color: white;
 }
 
-td.c_27 { /* Activity id: 12 (subject+students) */
+td.c_28 { /* Activity id: 12 (subject+students) */
  background-color: rgb(168, 50, 9);
  color: white;
 }
 
-td.c_28 { /* Activity id: 13 (subject+students) */
+td.c_29 { /* Activity id: 13 (subject+students) */
  background-color: rgb(17, 127, 8);
  color: white;
 }
 
-td.c_29 { /* Activity id: 14 (subject+students) */
+td.c_30 { /* Activity id: 14 (subject+students) */
  background-color: rgb(157, 75, 122);
  color: white;
 }
 
-td.c_30 { /* Activity id: 15 (subject+students) */
+td.c_31 { /* Activity id: 15 (subject+students) */
  background-color: rgb(157, 22, 250);
  color: white;
+}
+
+td.c_32 { /* Activity id: 16 (subject+students) */
+ background-color: rgb(69, 229, 77);
+ color: black;
 }
 
 span.subject {

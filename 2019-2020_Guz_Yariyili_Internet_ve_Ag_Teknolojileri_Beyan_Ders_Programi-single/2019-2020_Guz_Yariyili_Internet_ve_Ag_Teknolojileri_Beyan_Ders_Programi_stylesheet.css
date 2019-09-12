@@ -1,0 +1,355 @@
+﻿@charset "UTF-8";
+
+/* CSS Stylesheet of 2019-2020_Guz_Yariyili_Internet_ve_Ag_Teknolojileri_Beyan_Ders_Programi.fet
+   Stylesheet generated with FET 5.37.5 on 9/12/19 7:10 AM */
+
+/* To do a page-break only after every second timetable, delete "page-break-before: always;" in "table.even_table". */
+/* Delete "page-break-before: always;" in "table.even_table" and in "table.odd_table" to skip page-breaks. */
+/* To hide an element just write the following phrase into the element: "display:none;" (without quotes). */
+
+p.back {
+  margin-top: 4ex;
+  margin-bottom: 5ex;
+}
+
+table {
+  text-align: center;
+  page-break-inside: avoid;
+}
+
+table.odd_table {
+  page-break-before: always;
+}
+
+table.even_table {
+  page-break-before: always;
+}
+
+table.detailed {
+  margin-left:auto; margin-right:auto;
+  text-align: center;
+  border: 0px;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+caption {
+
+}
+
+thead {
+
+}
+
+/* Some programs import "tfoot" incorrectly. So we use "tr.foot" instead of "tfoot". */
+
+tr.foot {
+
+}
+
+tbody {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+td.detailed {
+  border: 1px dashed silver;
+  border-bottom: 0;
+  border-top: 0;
+}
+
+th.xAxis {
+/* width: 8em; */
+}
+
+th.yAxis {
+  height: 8ex;
+}
+
+td.c_1 { /* Activity id: 1 (subject) */
+ background-color: rgb(220, 177, 38);
+ color: black;
+}
+
+td.c_2 { /* Activity id: 2 (subject) */
+ background-color: rgb(62, 214, 73);
+ color: black;
+}
+
+td.c_3 { /* Activity id: 3 (subject) */
+ background-color: rgb(206, 237, 249);
+ color: black;
+}
+
+td.c_4 { /* Activity id: 5 (subject) */
+ background-color: rgb(15, 222, 224);
+ color: black;
+}
+
+td.c_5 { /* Activity id: 7 (subject) */
+ background-color: rgb(71, 77, 101);
+ color: white;
+}
+
+td.c_6 { /* Activity id: 8 (subject) */
+ background-color: rgb(115, 2, 2);
+ color: white;
+}
+
+td.c_7 { /* Activity id: 9 (subject) */
+ background-color: rgb(16, 187, 17);
+ color: white;
+}
+
+td.c_8 { /* Activity id: 12 (subject) */
+ background-color: rgb(132, 64, 178);
+ color: white;
+}
+
+td.c_9 { /* Activity id: 13 (subject) */
+ background-color: rgb(230, 39, 183);
+ color: white;
+}
+
+td.c_10 { /* Activity id: 14 (subject) */
+ background-color: rgb(158, 162, 21);
+ color: black;
+}
+
+td.c_11 { /* Activity id: 15 (subject) */
+ background-color: rgb(93, 80, 18);
+ color: white;
+}
+
+td.c_12 { /* Activity id: 24 (subject) */
+ background-color: rgb(226, 31, 236);
+ color: white;
+}
+
+td.c_13 { /* Activity id: 25 (subject) */
+ background-color: rgb(202, 151, 120);
+ color: black;
+}
+
+td.c_14 { /* Activity id: 26 (subject) */
+ background-color: rgb(127, 231, 233);
+ color: black;
+}
+
+td.c_15 { /* Activity id: 27 (subject) */
+ background-color: rgb(103, 121, 59);
+ color: white;
+}
+
+td.c_16 { /* Activity id: 28 (subject) */
+ background-color: rgb(245, 82, 246);
+ color: black;
+}
+
+td.c_17 { /* Activity id: 1 (subject+students) */
+ background-color: rgb(224, 189, 16);
+ color: black;
+}
+
+td.c_18 { /* Activity id: 2 (subject+students) */
+ background-color: rgb(92, 140, 255);
+ color: black;
+}
+
+td.c_19 { /* Activity id: 3 (subject+students) */
+ background-color: rgb(99, 90, 19);
+ color: white;
+}
+
+td.c_20 { /* Activity id: 5 (subject+students) */
+ background-color: rgb(30, 3, 127);
+ color: white;
+}
+
+td.c_21 { /* Activity id: 7 (subject+students) */
+ background-color: rgb(39, 177, 130);
+ color: black;
+}
+
+td.c_22 { /* Activity id: 8 (subject+students) */
+ background-color: rgb(57, 78, 199);
+ color: white;
+}
+
+td.c_23 { /* Activity id: 9 (subject+students) */
+ background-color: rgb(230, 196, 160);
+ color: black;
+}
+
+td.c_24 { /* Activity id: 12 (subject+students) */
+ background-color: rgb(168, 50, 9);
+ color: white;
+}
+
+td.c_25 { /* Activity id: 13 (subject+students) */
+ background-color: rgb(17, 127, 8);
+ color: white;
+}
+
+td.c_26 { /* Activity id: 14 (subject+students) */
+ background-color: rgb(157, 75, 122);
+ color: white;
+}
+
+td.c_27 { /* Activity id: 15 (subject+students) */
+ background-color: rgb(157, 22, 250);
+ color: white;
+}
+
+td.c_28 { /* Activity id: 24 (subject+students) */
+ background-color: rgb(69, 229, 77);
+ color: black;
+}
+
+td.c_29 { /* Activity id: 25 (subject+students) */
+ background-color: rgb(206, 226, 216);
+ color: black;
+}
+
+td.c_30 { /* Activity id: 26 (subject+students) */
+ background-color: rgb(190, 149, 47);
+ color: black;
+}
+
+td.c_31 { /* Activity id: 27 (subject+students) */
+ background-color: rgb(51, 79, 221);
+ color: white;
+}
+
+td.c_32 { /* Activity id: 28 (subject+students) */
+ background-color: rgb(174, 75, 107);
+ color: white;
+}
+
+span.subject {
+
+}
+
+span.activitytag {
+
+}
+
+span.empty {
+  color: gray;
+}
+
+td.empty {
+  border-color:silver;
+  border-right-style:none;
+  border-bottom-style:none;
+  border-left-style:dotted;
+  border-top-style:dotted;
+}
+
+span.notAvailable {
+  color: gray;
+}
+
+td.notAvailable {
+  border-color:silver;
+  border-right-style:none;
+  border-bottom-style:none;
+  border-left-style:dotted;
+  border-top-style:dotted;
+}
+
+span.break {
+  color: gray;
+}
+
+td.break {
+  border-color:silver;
+  border-right-style:none;
+  border-bottom-style:none;
+  border-left-style:dotted;
+  border-top-style:dotted;
+}
+
+tr.studentsset, div.studentsset {
+
+}
+
+tr.teacher, div.teacher {
+
+}
+
+tr.room, div.room {
+
+}
+
+tr.line0, div.line0 {
+  font-size: smaller;
+}
+
+tr.line1, div.line1 {
+
+}
+
+tr.line2, div.line2 {
+  font-size: smaller;
+}
+
+tr.line3, div.line3 {
+  font-size: smaller;
+}
+
+/* Style the teachers' free periods */
+
+div.DESCRIPTION {
+  text-align: left;
+  font-size: smaller;
+}
+
+div.TEACHER_HAS_SINGLE_GAP {
+  color: black;
+}
+
+div.TEACHER_HAS_BORDER_GAP {
+  color: gray;
+}
+
+div.TEACHER_HAS_BIG_GAP {
+  color: silver;
+}
+
+div.TEACHER_MUST_COME_EARLIER {
+  color: purple;
+}
+
+div.TEACHER_MUST_COME_MUCH_EARLIER {
+  font-size: smaller;
+  color: fuchsia;
+}
+
+div.TEACHER_MUST_STAY_LONGER {
+  color: teal;
+}
+
+div.TEACHER_MUST_STAY_MUCH_LONGER {
+  font-size: smaller;
+  color: aqua;
+}
+
+div.TEACHER_HAS_A_FREE_DAY {
+  font-size: smaller;
+  color: red;
+}
+
+div.TEACHER_IS_NOT_AVAILABLE {
+  font-size: smaller;
+  color: olive;
+}
+
+/* End of file. */
