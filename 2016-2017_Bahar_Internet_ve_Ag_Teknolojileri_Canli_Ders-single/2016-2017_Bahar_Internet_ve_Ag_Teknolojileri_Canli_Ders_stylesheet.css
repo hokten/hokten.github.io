@@ -1,7 +1,7 @@
 ﻿@charset "UTF-8";
 
 /* CSS Stylesheet of 2016-2017_Bahar_Internet_ve_Ag_Teknolojileri_Canli_Ders.fet
-   Stylesheet generated with FET 5.30.2 on 2/4/17 9:23 AM */
+   Stylesheet generated with FET 5.37.5 on 1/27/20 3:01 PM */
 
 /* To do a page-break only after every second timetable, delete "page-break-before: always;" in "table.even_table". */
 /* Delete "page-break-before: always;" in "table.even_table" and in "table.odd_table" to skip page-breaks. */
@@ -133,64 +133,94 @@ td.c_12 { /* Activity id: 12 (subject) */
  color: white;
 }
 
-td.c_13 { /* Activity id: 1 (subject+students) */
+td.c_13 { /* Activity id: 13 (subject) */
+ background-color: rgb(76, 146, 143);
+ color: white;
+}
+
+td.c_14 { /* Activity id: 14 (subject) */
+ background-color: rgb(198, 171, 215);
+ color: black;
+}
+
+td.c_15 { /* Activity id: 15 (subject) */
+ background-color: rgb(5, 220, 170);
+ color: black;
+}
+
+td.c_16 { /* Activity id: 1 (subject+students) */
  background-color: rgb(181, 25, 204);
  color: white;
 }
 
-td.c_14 { /* Activity id: 2 (subject+students) */
+td.c_17 { /* Activity id: 2 (subject+students) */
  background-color: rgb(145, 192, 131);
  color: black;
 }
 
-td.c_15 { /* Activity id: 3 (subject+students) */
+td.c_18 { /* Activity id: 3 (subject+students) */
  background-color: rgb(231, 148, 6);
  color: black;
 }
 
-td.c_16 { /* Activity id: 4 (subject+students) */
+td.c_19 { /* Activity id: 4 (subject+students) */
  background-color: rgb(29, 84, 52);
  color: white;
 }
 
-td.c_17 { /* Activity id: 5 (subject+students) */
+td.c_20 { /* Activity id: 5 (subject+students) */
  background-color: rgb(61, 5, 245);
  color: white;
 }
 
-td.c_18 { /* Activity id: 6 (subject+students) */
+td.c_21 { /* Activity id: 6 (subject+students) */
  background-color: rgb(116, 71, 48);
  color: white;
 }
 
-td.c_19 { /* Activity id: 7 (subject+students) */
+td.c_22 { /* Activity id: 7 (subject+students) */
  background-color: rgb(11, 93, 116);
  color: white;
 }
 
-td.c_20 { /* Activity id: 8 (subject+students) */
+td.c_23 { /* Activity id: 8 (subject+students) */
  background-color: rgb(152, 97, 195);
  color: white;
 }
 
-td.c_21 { /* Activity id: 9 (subject+students) */
+td.c_24 { /* Activity id: 9 (subject+students) */
  background-color: rgb(23, 145, 51);
  color: white;
 }
 
-td.c_22 { /* Activity id: 10 (subject+students) */
+td.c_25 { /* Activity id: 10 (subject+students) */
  background-color: rgb(61, 231, 146);
  color: black;
 }
 
-td.c_23 { /* Activity id: 11 (subject+students) */
+td.c_26 { /* Activity id: 11 (subject+students) */
  background-color: rgb(103, 206, 63);
  color: black;
 }
 
-td.c_24 { /* Activity id: 12 (subject+students) */
+td.c_27 { /* Activity id: 12 (subject+students) */
  background-color: rgb(229, 228, 13);
  color: black;
+}
+
+td.c_28 { /* Activity id: 13 (subject+students) */
+ background-color: rgb(180, 163, 127);
+ color: black;
+}
+
+td.c_29 { /* Activity id: 14 (subject+students) */
+ background-color: rgb(123, 196, 132);
+ color: black;
+}
+
+td.c_30 { /* Activity id: 15 (subject+students) */
+ background-color: rgb(34, 79, 165);
+ color: white;
 }
 
 span.subject {
@@ -265,7 +295,7 @@ tr.line3, div.line3 {
   font-size: smaller;
 }
 
-/* Style the teachers free periods */
+/* Style the teachers' free periods */
 
 div.DESCRIPTION {
   text-align: left;
