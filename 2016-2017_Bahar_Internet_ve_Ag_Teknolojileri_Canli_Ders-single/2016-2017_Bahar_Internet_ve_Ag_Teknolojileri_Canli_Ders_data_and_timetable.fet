@@ -1022,12 +1022,6 @@
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintTeacherNotAvailableTimes>
-<ConstraintTeachersMaxGapsPerDay>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Max_Gaps>1</Max_Gaps>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintTeachersMaxGapsPerDay>
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>Dr. Öğr. Üyesi Aslıhan ISTANBULLU</Teacher>
@@ -1693,115 +1687,7 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>Dr. Öğr. Üyesi Volkan KUKUL</Teacher>
-	<Number_of_Not_Available_Times>108</Number_of_Not_Available_Times>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>17:00-17:15</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>17:15-17:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>17:30-17:45</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>17:45-18:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>18:00-18:15</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>18:15-18:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>18:30-18:45</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>18:45-19:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>19:00-19:15</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>19:15-19:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>19:30-19:45</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>19:45-20:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>20:00-20:15</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>20:15-20:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>20:30-20:45</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>20:45-21:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>21:00-21:15</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>21:15-21:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>21:30-21:45</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>21:45-22:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>22:00-22:15</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>22:15:22:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>22:30-22:45</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>22:45:23:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>23:00-23:15</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>23:15-23:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Pazartesi</Day>
-		<Hour>23:30-23:45</Hour>
-	</Not_Available_Time>
+	<Number_of_Not_Available_Times>81</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Salı</Day>
 		<Hour>17:00-17:15</Hour>
@@ -2139,7 +2025,7 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>Bil. ve Ağ. Tek. I. Sınıf</Students>
-	<Number_of_Not_Available_Times>65</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>59</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Pazartesi</Day>
 		<Hour>17:00-17:15</Hour>
@@ -2354,30 +2240,6 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Cuma</Day>
-		<Hour>17:00-17:15</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Cuma</Day>
-		<Hour>17:15-17:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Cuma</Day>
-		<Hour>17:30-17:45</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Cuma</Day>
-		<Hour>17:45-18:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Cuma</Day>
-		<Hour>18:00-18:15</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Cuma</Day>
-		<Hour>18:15-18:30</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Cuma</Day>
 		<Hour>22:15:22:30</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
@@ -2406,7 +2268,7 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>Bil. ve Ağ. Tek. II. Sınıf</Students>
-	<Number_of_Not_Available_Times>60</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>59</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Pazartesi</Day>
 		<Hour>17:00-17:15</Hour>
@@ -2522,10 +2384,6 @@
 	<Not_Available_Time>
 		<Day>Çarşamba</Day>
 		<Hour>18:00-18:15</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Çarşamba</Day>
-		<Hour>18:15-18:30</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Çarşamba</Day>
@@ -2650,31 +2508,11 @@
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintStudentsSetNotAvailableTimes>
-<ConstraintStudentsMaxHoursContinuously>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Maximum_Hours_Continuously>6</Maximum_Hours_Continuously>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintStudentsMaxHoursContinuously>
-<ConstraintStudentsSetMaxGapsPerDay>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Max_Gaps>3</Max_Gaps>
-	<Students>Bil. ve Ağ. Tek. I. Sınıf</Students>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintStudentsSetMaxGapsPerDay>
-<ConstraintStudentsSetMaxGapsPerDay>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Max_Gaps>2</Max_Gaps>
-	<Students>Bil. ve Ağ. Tek. II. Sınıf</Students>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintStudentsSetMaxGapsPerDay>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>13</Activity_Id>
-	<Preferred_Day>Perşembe</Preferred_Day>
-	<Preferred_Hour>19:00-19:15</Preferred_Hour>
+	<Preferred_Day>Cuma</Preferred_Day>
+	<Preferred_Hour>17:00-17:15</Preferred_Hour>
 	<Permanently_Locked>true</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2682,8 +2520,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>14</Activity_Id>
-	<Preferred_Day>Perşembe</Preferred_Day>
-	<Preferred_Hour>20:00-20:15</Preferred_Hour>
+	<Preferred_Day>Cuma</Preferred_Day>
+	<Preferred_Hour>18:00-18:15</Preferred_Hour>
 	<Permanently_Locked>true</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2691,18 +2529,12 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>15</Activity_Id>
-	<Preferred_Day>Perşembe</Preferred_Day>
-	<Preferred_Hour>21:00-21:15</Preferred_Hour>
+	<Preferred_Day>Cuma</Preferred_Day>
+	<Preferred_Hour>19:00-19:15</Preferred_Hour>
 	<Permanently_Locked>true</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
-<ConstraintTeachersMaxDaysPerWeek>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Max_Days_Per_Week>1</Max_Days_Per_Week>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintTeachersMaxDaysPerWeek>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>4</Activity_Id>
@@ -2723,37 +2555,19 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>1</Activity_Id>
-	<Preferred_Day>Çarşamba</Preferred_Day>
-	<Preferred_Hour>19:30-19:45</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>2</Activity_Id>
-	<Preferred_Day>Salı</Preferred_Day>
-	<Preferred_Hour>18:30-18:45</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>3</Activity_Id>
 	<Preferred_Day>Çarşamba</Preferred_Day>
-	<Preferred_Hour>20:45-21:00</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
+	<Preferred_Hour>19:30-19:45</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>5</Activity_Id>
-	<Preferred_Day>Çarşamba</Preferred_Day>
-	<Preferred_Hour>18:30-18:45</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
+	<Activity_Id>11</Activity_Id>
+	<Preferred_Day>Pazartesi</Preferred_Day>
+	<Preferred_Hour>19:00-19:15</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
@@ -2761,44 +2575,26 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>6</Activity_Id>
 	<Preferred_Day>Salı</Preferred_Day>
-	<Preferred_Hour>20:00-20:15</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
+	<Preferred_Hour>18:30-18:45</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>8</Activity_Id>
-	<Preferred_Day>Perşembe</Preferred_Day>
-	<Preferred_Hour>19:15-19:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>9</Activity_Id>
-	<Preferred_Day>Çarşamba</Preferred_Day>
-	<Preferred_Hour>19:15-19:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>10</Activity_Id>
-	<Preferred_Day>Perşembe</Preferred_Day>
-	<Preferred_Hour>21:00-21:15</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>11</Activity_Id>
 	<Preferred_Day>Salı</Preferred_Day>
-	<Preferred_Hour>19:00-19:15</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
+	<Preferred_Hour>19:45-20:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>2</Activity_Id>
+	<Preferred_Day>Salı</Preferred_Day>
+	<Preferred_Hour>19:30-19:45</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
@@ -2807,7 +2603,43 @@
 	<Activity_Id>12</Activity_Id>
 	<Preferred_Day>Salı</Preferred_Day>
 	<Preferred_Hour>21:15-21:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>5</Activity_Id>
+	<Preferred_Day>Çarşamba</Preferred_Day>
+	<Preferred_Hour>18:30-18:45</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>9</Activity_Id>
+	<Preferred_Day>Çarşamba</Preferred_Day>
+	<Preferred_Hour>19:30-19:45</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>1</Activity_Id>
+	<Preferred_Day>Pazartesi</Preferred_Day>
+	<Preferred_Hour>20:15-20:30</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>10</Activity_Id>
+	<Preferred_Day>Çarşamba</Preferred_Day>
+	<Preferred_Hour>18:15-18:30</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>

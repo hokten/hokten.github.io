@@ -1,6 +1,7 @@
 ﻿Soft conflicts of 2016-2017_Bahar_Internet_ve_Ag_Teknolojileri.fet
-Generated with FET 5.30.2 on 2/14/17 11:24 AM
+Generated with FET 5.37.5 on 2/3/20 11:52 AM
 
+Number of broken soft constraints: 0
 Total soft conflicts: 0
 
 Soft conflicts list (in decreasing order):

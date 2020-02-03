@@ -521,16 +521,16 @@
      
     </Hour>
     <Hour name="18:30-18:45">
-     <Subject name="UIAT110 - AĞ TEKNOLOJİLERİNE GİRİŞ"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
+     <Subject name="UIAT202 - İNTERNET GÜVENLİĞİ"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
     </Hour>
     <Hour name="18:45-19:00">
-     <Subject name="UIAT110 - AĞ TEKNOLOJİLERİNE GİRİŞ"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
+     <Subject name="UIAT202 - İNTERNET GÜVENLİĞİ"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
     </Hour>
     <Hour name="19:00-19:15">
-     <Subject name="UIAT110 - AĞ TEKNOLOJİLERİNE GİRİŞ"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
+     <Subject name="UIAT202 - İNTERNET GÜVENLİĞİ"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
     </Hour>
     <Hour name="19:15-19:30">
-     <Subject name="UIAT110 - AĞ TEKNOLOJİLERİNE GİRİŞ"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
+     <Subject name="UIAT202 - İNTERNET GÜVENLİĞİ"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
     </Hour>
     <Hour name="19:30-19:45">
      <Subject name="UIAT110 - AĞ TEKNOLOJİLERİNE GİRİŞ"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
@@ -539,16 +539,16 @@
      <Subject name="UIAT110 - AĞ TEKNOLOJİLERİNE GİRİŞ"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
     </Hour>
     <Hour name="20:00-20:15">
-     <Subject name="UIAT202 - İNTERNET GÜVENLİĞİ"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
+     <Subject name="UIAT110 - AĞ TEKNOLOJİLERİNE GİRİŞ"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
     </Hour>
     <Hour name="20:15-20:30">
-     <Subject name="UIAT202 - İNTERNET GÜVENLİĞİ"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
+     <Subject name="UIAT110 - AĞ TEKNOLOJİLERİNE GİRİŞ"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
     </Hour>
     <Hour name="20:30-20:45">
-     <Subject name="UIAT202 - İNTERNET GÜVENLİĞİ"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
+     <Subject name="UIAT110 - AĞ TEKNOLOJİLERİNE GİRİŞ"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
     </Hour>
     <Hour name="20:45-21:00">
-     <Subject name="UIAT202 - İNTERNET GÜVENLİĞİ"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
+     <Subject name="UIAT110 - AĞ TEKNOLOJİLERİNE GİRİŞ"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
     </Hour>
     <Hour name="21:00-21:15">
      
@@ -953,22 +953,22 @@
      
     </Hour>
     <Hour name="19:45-20:00">
-     
+     <Subject name="UIAT206 - İNTERNET PROGRAMCILIĞI-II"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
     </Hour>
     <Hour name="20:00-20:15">
-     
+     <Subject name="UIAT206 - İNTERNET PROGRAMCILIĞI-II"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
     </Hour>
     <Hour name="20:15-20:30">
-     
+     <Subject name="UIAT206 - İNTERNET PROGRAMCILIĞI-II"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
     </Hour>
     <Hour name="20:30-20:45">
-     
+     <Subject name="UIAT206 - İNTERNET PROGRAMCILIĞI-II"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
     </Hour>
     <Hour name="20:45-21:00">
-     
+     <Subject name="UIAT206 - İNTERNET PROGRAMCILIĞI-II"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
     </Hour>
     <Hour name="21:00-21:15">
-     
+     <Subject name="UIAT206 - İNTERNET PROGRAMCILIĞI-II"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
     </Hour>
     <Hour name="21:15-21:30">
      
@@ -1018,16 +1018,16 @@
      
     </Hour>
     <Hour name="18:15-18:30">
-     
+     <Subject name="UIAT210 - KABLOSUZ AĞ TEKNOLOJİLERİ"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
     </Hour>
     <Hour name="18:30-18:45">
-     
+     <Subject name="UIAT210 - KABLOSUZ AĞ TEKNOLOJİLERİ"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
     </Hour>
     <Hour name="18:45-19:00">
-     
+     <Subject name="UIAT210 - KABLOSUZ AĞ TEKNOLOJİLERİ"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
     </Hour>
     <Hour name="19:00-19:15">
-     
+     <Subject name="UIAT210 - KABLOSUZ AĞ TEKNOLOJİLERİ"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
     </Hour>
     <Hour name="19:15-19:30">
      
@@ -1113,37 +1113,37 @@
      
     </Hour>
     <Hour name="19:15-19:30">
-     <Subject name="UIAT206 - İNTERNET PROGRAMCILIĞI-II"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
+     
     </Hour>
     <Hour name="19:30-19:45">
-     <Subject name="UIAT206 - İNTERNET PROGRAMCILIĞI-II"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
+     
     </Hour>
     <Hour name="19:45-20:00">
-     <Subject name="UIAT206 - İNTERNET PROGRAMCILIĞI-II"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
+     
     </Hour>
     <Hour name="20:00-20:15">
-     <Subject name="UIAT206 - İNTERNET PROGRAMCILIĞI-II"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
+     
     </Hour>
     <Hour name="20:15-20:30">
-     <Subject name="UIAT206 - İNTERNET PROGRAMCILIĞI-II"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
+     
     </Hour>
     <Hour name="20:30-20:45">
-     <Subject name="UIAT206 - İNTERNET PROGRAMCILIĞI-II"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
+     
     </Hour>
     <Hour name="20:45-21:00">
      
     </Hour>
     <Hour name="21:00-21:15">
-     <Subject name="UIAT210 - KABLOSUZ AĞ TEKNOLOJİLERİ"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
+     
     </Hour>
     <Hour name="21:15-21:30">
-     <Subject name="UIAT210 - KABLOSUZ AĞ TEKNOLOJİLERİ"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
+     
     </Hour>
     <Hour name="21:30-21:45">
-     <Subject name="UIAT210 - KABLOSUZ AĞ TEKNOLOJİLERİ"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
+     
     </Hour>
     <Hour name="21:45-22:00">
-     <Subject name="UIAT210 - KABLOSUZ AĞ TEKNOLOJİLERİ"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
+     
     </Hour>
     <Hour name="22:00-22:15">
      
@@ -1293,16 +1293,16 @@
      
     </Hour>
     <Hour name="20:15-20:30">
-     
+     <Subject name="UIAT108 - GRAFİK VE ANİMASYON"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
     </Hour>
     <Hour name="20:30-20:45">
-     
+     <Subject name="UIAT108 - GRAFİK VE ANİMASYON"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
     </Hour>
     <Hour name="20:45-21:00">
-     
+     <Subject name="UIAT108 - GRAFİK VE ANİMASYON"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
     </Hour>
     <Hour name="21:00-21:15">
-     
+     <Subject name="UIAT108 - GRAFİK VE ANİMASYON"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
     </Hour>
     <Hour name="21:15-21:30">
      
@@ -1450,37 +1450,37 @@
      
     </Hour>
     <Hour name="19:30-19:45">
-     <Subject name="UIAT108 - GRAFİK VE ANİMASYON"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
+     <Subject name="UIAT112 - WEB TASARIMININ TEMELLERİ"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
     </Hour>
     <Hour name="19:45-20:00">
-     <Subject name="UIAT108 - GRAFİK VE ANİMASYON"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
+     <Subject name="UIAT112 - WEB TASARIMININ TEMELLERİ"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
     </Hour>
     <Hour name="20:00-20:15">
-     <Subject name="UIAT108 - GRAFİK VE ANİMASYON"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
+     <Subject name="UIAT112 - WEB TASARIMININ TEMELLERİ"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
     </Hour>
     <Hour name="20:15-20:30">
-     <Subject name="UIAT108 - GRAFİK VE ANİMASYON"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
+     <Subject name="UIAT112 - WEB TASARIMININ TEMELLERİ"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
     </Hour>
     <Hour name="20:30-20:45">
-     
+     <Subject name="UIAT112 - WEB TASARIMININ TEMELLERİ"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
     </Hour>
     <Hour name="20:45-21:00">
      <Subject name="UIAT112 - WEB TASARIMININ TEMELLERİ"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
     </Hour>
     <Hour name="21:00-21:15">
-     <Subject name="UIAT112 - WEB TASARIMININ TEMELLERİ"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
+     
     </Hour>
     <Hour name="21:15-21:30">
-     <Subject name="UIAT112 - WEB TASARIMININ TEMELLERİ"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
+     
     </Hour>
     <Hour name="21:30-21:45">
-     <Subject name="UIAT112 - WEB TASARIMININ TEMELLERİ"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
+     
     </Hour>
     <Hour name="21:45-22:00">
-     <Subject name="UIAT112 - WEB TASARIMININ TEMELLERİ"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
+     
     </Hour>
     <Hour name="22:00-22:15">
-     <Subject name="UIAT112 - WEB TASARIMININ TEMELLERİ"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
+     
     </Hour>
     <Hour name="22:15:22:30">
      
@@ -1864,7 +1864,7 @@
      <Subject name="UIAT118 - E-TİCARET"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
     </Hour>
     <Hour name="19:15-19:30">
-     <Subject name="UIAT208 - AÇIK KAYNAK İŞLETİM SİSTEMLERİ"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
+     
     </Hour>
     <Hour name="19:30-19:45">
      <Subject name="UIAT208 - AÇIK KAYNAK İŞLETİM SİSTEMLERİ"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
@@ -1882,7 +1882,7 @@
      <Subject name="UIAT208 - AÇIK KAYNAK İŞLETİM SİSTEMLERİ"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
     </Hour>
     <Hour name="20:45-21:00">
-     
+     <Subject name="UIAT208 - AÇIK KAYNAK İŞLETİM SİSTEMLERİ"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
     </Hour>
     <Hour name="21:00-21:15">
      
@@ -2112,13 +2112,13 @@
      
     </Hour>
     <Hour name="19:00-19:15">
-     
+     <Subject name="UIAT214 - ARAŞTIRMA TEKNİĞİ VE SEMİNER"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
     </Hour>
     <Hour name="19:15-19:30">
-     
+     <Subject name="UIAT214 - ARAŞTIRMA TEKNİĞİ VE SEMİNER"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
     </Hour>
     <Hour name="19:30-19:45">
-     
+     <Subject name="UIAT214 - ARAŞTIRMA TEKNİĞİ VE SEMİNER"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
     </Hour>
     <Hour name="19:45-20:00">
      
@@ -2195,13 +2195,13 @@
      
     </Hour>
     <Hour name="19:00-19:15">
-     <Subject name="UIAT214 - ARAŞTIRMA TEKNİĞİ VE SEMİNER"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
+     
     </Hour>
     <Hour name="19:15-19:30">
-     <Subject name="UIAT214 - ARAŞTIRMA TEKNİĞİ VE SEMİNER"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
+     
     </Hour>
     <Hour name="19:30-19:45">
-     <Subject name="UIAT214 - ARAŞTIRMA TEKNİĞİ VE SEMİNER"></Subject><Students name="Bil. ve Ağ. Tek. II. Sınıf"></Students>
+     
     </Hour>
     <Hour name="19:45-20:00">
      
@@ -2778,13 +2778,13 @@
      
     </Hour>
     <Hour name="19:00-19:15">
-     <Subject name="UTDL102 - TÜRK DİLİ - II"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
+     
     </Hour>
     <Hour name="19:15-19:30">
-     <Subject name="UTDL102 - TÜRK DİLİ - II"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
+     
     </Hour>
     <Hour name="19:30-19:45">
-     <Subject name="UTDL102 - TÜRK DİLİ - II"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
+     
     </Hour>
     <Hour name="19:45-20:00">
      
@@ -2837,13 +2837,13 @@
    </Day>
    <Day name="Cuma">
     <Hour name="17:00-17:15">
-     
+     <Subject name="UTDL102 - TÜRK DİLİ - II"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
     </Hour>
     <Hour name="17:15-17:30">
-     
+     <Subject name="UTDL102 - TÜRK DİLİ - II"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
     </Hour>
     <Hour name="17:30-17:45">
-     
+     <Subject name="UTDL102 - TÜRK DİLİ - II"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
     </Hour>
     <Hour name="17:45-18:00">
      
@@ -3207,13 +3207,13 @@
      
     </Hour>
     <Hour name="20:00-20:15">
-     <Subject name="UAIT102 - ATATÜRK İLKELERİ VE İNKİLAP TARİHİ - II"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
+     
     </Hour>
     <Hour name="20:15-20:30">
-     <Subject name="UAIT102 - ATATÜRK İLKELERİ VE İNKİLAP TARİHİ - II"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
+     
     </Hour>
     <Hour name="20:30-20:45">
-     <Subject name="UAIT102 - ATATÜRK İLKELERİ VE İNKİLAP TARİHİ - II"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
+     
     </Hour>
     <Hour name="20:45-21:00">
      
@@ -3266,13 +3266,13 @@
      
     </Hour>
     <Hour name="18:00-18:15">
-     
+     <Subject name="UAIT102 - ATATÜRK İLKELERİ VE İNKİLAP TARİHİ - II"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
     </Hour>
     <Hour name="18:15-18:30">
-     
+     <Subject name="UAIT102 - ATATÜRK İLKELERİ VE İNKİLAP TARİHİ - II"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
     </Hour>
     <Hour name="18:30-18:45">
-     
+     <Subject name="UAIT102 - ATATÜRK İLKELERİ VE İNKİLAP TARİHİ - II"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
     </Hour>
     <Hour name="18:45-19:00">
      
@@ -3636,13 +3636,13 @@
      
     </Hour>
     <Hour name="21:00-21:15">
-     <Subject name="UYDL102 - YABANCI DİL - II"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
+     
     </Hour>
     <Hour name="21:15-21:30">
-     <Subject name="UYDL102 - YABANCI DİL - II"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
+     
     </Hour>
     <Hour name="21:30-21:45">
-     <Subject name="UYDL102 - YABANCI DİL - II"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
+     
     </Hour>
     <Hour name="21:45-22:00">
      
@@ -3695,13 +3695,13 @@
      
     </Hour>
     <Hour name="19:00-19:15">
-     
+     <Subject name="UYDL102 - YABANCI DİL - II"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
     </Hour>
     <Hour name="19:15-19:30">
-     
+     <Subject name="UYDL102 - YABANCI DİL - II"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
     </Hour>
     <Hour name="19:30-19:45">
-     
+     <Subject name="UYDL102 - YABANCI DİL - II"></Subject><Students name="Bil. ve Ağ. Tek. I. Sınıf"></Students>
     </Hour>
     <Hour name="19:45-20:00">
      
