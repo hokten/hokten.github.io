@@ -1,0 +1,10 @@
+﻿Soft conflicts of 2022-2023_Bahar_Bilgisayar_Teknolojileri_data_and_timetable.fet
+Generated with FET 6.5.7 on 1/24/23 1:22 PM
+
+Number of broken soft constraints: 0
+Total soft conflicts: 0
+
+Soft conflicts list (in decreasing order):
+
+
+End of file.
